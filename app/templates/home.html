@@ -1,0 +1,20 @@
+<head>
+</head>
+
+<body background="static/GoldenGateBridge-001.png">
+  <br><br><br>
+  <h1>SF Startup Recommendation Engine</h1>
+  <p> By Danny Mendoza  -
+        <a href="https://github.com/jdmendoza">Github</a>
+
+  </p>
+<br>
+  <form  method="POST">
+      {# This hidden_tag is a CSRF security feature. #}
+      {{ form.hidden_tag() }}
+      {{ form.startup.label}}<br>{{form.startup}}
+
+      <br><br>
+        {{ form.submit() }}
+  </form>
+</body>
