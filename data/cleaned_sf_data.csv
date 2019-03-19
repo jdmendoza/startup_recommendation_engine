@@ -1,0 +1,1141 @@
+company_name,total_funding,company_market,company_city,company_max_round,isAcquired,company_city_popular,company_market_popular,investor_ratings,company_category_list
+VirtualLogix,29.288979,Software,Sunnyvale,2,1,Sunnyvale,Software,10.0,|Mobile|Virtualization|Software|
+Deem,56.3,Broadcasting,Oakland,8,0,Other_city,Other_market,9.821428571428571,|Trading|Marketplaces|Content Syndication|Productivity Software|E-Commerce|
+Pandora Media,32.0,Hotels,Santa Clara,4,0,Santa Clara,Other_market,9.727272727272727,|Broadcasting|Video Streaming|Music|
+PlayFirst,5.8,Music,San Francisco,3,1,San Francisco,Music,10.0,|iPhone|Mobile Games|Games|
+Socialtext,3.0,iPhone,Mountain View,4,1,Mountain View,Other_market,9.818181818181818,|Collaboration|Software|Networking|Web Tools|Enterprise Software|
+SideStep,33.4,Music,Emeryville,3,1,Other_city,Music,10.0,|Ticketing|Hotels|Travel|
+Soundflavor,28.3,Curated Web,Sunnyvale,1,0,Sunnyvale,Curated Web,7.4,|Ediscovery|Music|
+Executive Caddie,823.0,Automotive,Palo Alto,0,0,Palo Alto,Other_market,6.0,|Windows Phone 7|iPhone|Sports|Software|
+VisualOn,80.54,Health Care,Mountain View,2,0,Mountain View,Health Care,7.5,|Software|
+Innovative Silicon,62.0,Health Care,Campbell,3,0,Other_city,Health Care,10.0,|Semiconductors|
+Gracenote,13.05,Nanotechnology,Redwood City,4,1,Redwood City,Other_market,9.25,|Music|Games|
+Aperto Networks,22.4,Curated Web,San Francisco,6,1,San Francisco,Curated Web,9.972972972972974,|Wireless|Mobile|
+Polimetrix,142.799,Games,Emeryville,1,1,Other_city,Games,10.0,|Analytics|
+StrongView,34.072,Finance,San Ramon,4,0,Other_city,Finance,10.0,|SaaS|Advertising|Displays|Social Media|Email Marketing|Enterprise Software|
+Mobissimo,13.3,Curated Web,Mountain View,0,0,Mountain View,Curated Web,10.0,|Travel|
+Plaxo,27.132127,Photography,San Francisco,4,1,San Francisco,Photography,10.0,|Trading|Synchronization|Databases|Contact Management|Curated Web|
+LiveOps,40.4,Publishing,San Francisco,3,0,San Francisco,Other_market,9.857142857142858,|Crowdsourcing|Cloud Computing|Enterprise Software|
+Tesla Motors,37.2,E-Commerce Platforms,Sunnyvale,6,1,Sunnyvale,Other_market,9.852941176470589,|Automotive|
+Firetide,19.0,Games,San Francisco,5,0,San Francisco,Games,9.6,|Mobile|
+Art.com,14.5,Hardware + Software,Foster City,3,0,Other_city,Hardware + Software,10.0,|Art|Design|
+CAPNIA,40.0,Software,San Francisco,2,0,San Francisco,Software,10.0,|Health Care|Health and Wellness|Gas|Medical|Biotechnology|
+Blazent,25.0,Games,San Francisco,3,0,San Francisco,Games,10.0,|Enterprise Software|
+eASIC,141.535713,Security,San Jose,5,0,San Jose,Security,9.95,|Semiconductors|
+ChemoCentryx,73.0,Health and Wellness,Brisbane,4,0,Other_city,Health and Wellness,9.8125,|Health Care|Biotechnology|
+Sadra Medical,10.0,Software,Santa Clara,3,1,Santa Clara,Software,9.8,|Health Care|
+Nanostellar,10.2,Games,San Francisco,5,0,San Francisco,Games,9.0,|Nanotechnology|
+Danger,10.5,Hardware + Software,Fremont,5,1,Other_city,Hardware + Software,10.0,|Software|
+Alpha and Omega Semiconductor,221.0,Web Hosting,San Jose,0,0,San Jose,Web Hosting,5.0,|Technology|Semiconductors|
+Fathom Online,43.5,Biotechnology,Menlo Park,1,1,Menlo Park,Biotechnology,10.0,|Advertising|
+Akimbo,81.312915,Peer-to-Peer,Palo Alto,4,0,Palo Alto,Other_market,10.0,|Recruiting|Personal Branding|Games|
+Mode Media,10.0,Games,Santa Clara,6,0,Santa Clara,Games,9.956521739130435,|Women|Fashion|Curated Web|
+Teneros,114.1,Technology,San Ramon,4,0,Other_city,Technology,10.0,|Enterprises|Messaging|
+AllBusiness.com,137.5,Advertising,Redwood City,3,0,Redwood City,Advertising,10.0,|Small and Medium Businesses|Publishing|Media|Curated Web|
+Yelp,823.715776,Network Security,Milpitas,5,0,Other_city,Other_market,10.0,|Customer Service|Reviews and Recommendations|Search|
+mBlox,5.0,Curated Web,Sunnyvale,4,0,Sunnyvale,Curated Web,9.833333333333334,|Wireless|SMS|Mobile|
+Zend Technologies,0.3,Hospitality,Redwood City,4,0,Redwood City,Other_market,9.88888888888889,|PaaS|SaaS|Mobile|Services|Cloud Computing|Software|
+Elance,33.0,Advertising,San Francisco,0,0,San Francisco,Advertising,10.0,|Freelancers|Human Resources|Outsourcing|Employment|Career Management|Curated Web|
+SugarCRM,79.0,Web Hosting,Sunnyvale,6,0,Sunnyvale,Web Hosting,10.0,|Cloud Computing|Enterprise Software|CRM|Software|
+JotSpot,5.0,Web Hosting,Fremont,1,1,Other_city,Web Hosting,10.0,|Software|
+MobiTV,10.0,Mobile,Sunnyvale,4,0,Sunnyvale,Mobile,10.0,|Games|
+AccountNow,11.5,Advertising,San Jose,3,0,San Jose,Advertising,9.2,|Finance|
+Craigslist,26.0,E-Commerce,Mountain View,0,0,Mountain View,E-Commerce,10.0,|Curated Web|
+BitPass,25.0,Games,Burlingame,2,0,Other_city,Games,9.833333333333334,|Curated Web|
+Technorati,19.74377,Data Integration,Palo Alto,4,0,Palo Alto,Other_market,9.6,|Search|Advertising|
+imeem,25.8,Security,Emeryville,1,1,Other_city,Security,9.0,|Video|Photography|Music|
+adBrite,6.4,Clean Technology,San Carlos,3,1,Other_city,Clean Technology,10.0,|Auctions|Publishing|Advertising|
+"Become, Inc.",67.041818,Semiconductors,Sunnyvale,4,0,Sunnyvale,Semiconductors,8.8,|Comparison Shopping|Advertising Platforms|Performance Marketing|E-Commerce Platforms|Shopping|Search|
+Facebook,106.023,Biotechnology,San Francisco,4,0,San Francisco,Biotechnology,10.0,|Communities|Identity|All Students|Colleges|Facebook Applications|Social Media|
+EndoGastric Solutions,10.0,Entertainment,Palo Alto,7,0,Palo Alto,Other_market,9.97872340425532,|Health Care|
+LinkedIn,32.49573,Reviews and Recommendations,San Jose,5,0,San Jose,Other_market,9.909090909090908,|Social Recruiting|Software|Networking|Social Media|
+Orb Networks,70.288,Advertising,San Mateo,1,0,San Mateo,Advertising,10.0,|Software|
+Simply Hired,5.0,Shopping,Sunnyvale,5,0,Sunnyvale,Other_market,7.944444444444445,|Search|
+IronPort Systems,11.5,Software,San Francisco,4,1,San Francisco,Software,10.0,|Security|
+Linden Lab,8.5,Software,San Mateo,2,0,San Mateo,Software,9.666666666666666,|Games|
+Switchfly,12.0,Security,Milpitas,3,0,Other_city,Security,9.25,|Software|
+Sling Media,10.25,Enterprise Software,Los Gatos,1,1,Other_city,Enterprise Software,10.0,|Television|Hardware + Software|
+AirTight Networks,41.0,Sales and Marketing,Redwood City,4,0,Redwood City,Other_market,10.0,|Wireless|Security|
+Splunk,84.590402,Advertising,San Ramon,3,0,Other_city,Advertising,10.0,|Software|
+Affinity Circles,32.999997,Software,Mountain View,3,0,Mountain View,Software,7.0,|Career Management|Alumni|Social Recruiting|Software|
+BlackArrow,60.0,Hardware + Software,Fremont,3,0,Other_city,Hardware + Software,9.789473684210526,|Advertising|
+Snocap,138.442109,E-Commerce,San Francisco,3,1,San Francisco,E-Commerce,10.0,|Content|Social Network Media|Peer-to-Peer|Games|
+SiBEAM,28.2,Enterprise Software,San Mateo,4,1,San Mateo,Enterprise Software,10.0,|Semiconductors|Mobile|
+Eurekster,3.6249,Software,Mountain View,2,0,Mountain View,Software,8.0,|Social Media|
+PostPath,173.0,Cloud Data Services,Palo Alto,3,1,Palo Alto,Other_market,10.0,|Messaging|
+CipherMax,21.0,Biotechnology,San Carlos,2,0,Other_city,Biotechnology,10.0,|Security|
+BiPar Sciences,8.0,Security,Santa Clara,3,1,Santa Clara,Security,10.0,|Health and Wellness|Biotechnology|
+Mu Dynamics,12.96,Outsourcing,San Francisco,3,1,San Francisco,Other_market,10.0,|Web Hosting|
+3Leaf,15.4,Privacy,Redwood City,3,1,Redwood City,Other_market,10.0,|Web Hosting|
+NextBio,40.8,Security,Pleasanton,3,0,Other_city,Security,10.0,|Enterprise Software|
+ITM Software,35.869729,Software,Mountain View,4,1,Mountain View,Software,10.0,|Software|
+Knowlent,53.0,Semiconductors,Santa Clara,2,0,Santa Clara,Semiconductors,7.75,|Software|
+Altierre,40.0,Semiconductors,Mountain View,6,0,Mountain View,Semiconductors,10.0,|Wireless|Education|Mobile|
+Lala,2.19,Software,San Francisco,3,1,San Francisco,Software,9.88888888888889,|Music|
+Meez,172.5,Biotechnology,Hayward,3,0,Other_city,Biotechnology,10.0,|Messaging|3D|Entertainment|Games|
+Code Green Networks,30.0,Technology,Santa Clara,3,0,Santa Clara,Technology,10.0,|Enterprise Software|
+Zmanda,16.0,Enterprise Software,Santa Clara,2,1,Santa Clara,Enterprise Software,10.0,|Software|
+PeerMe,65.7,Clean Technology,Menlo Park,1,0,Menlo Park,Clean Technology,7.0,|VoIP|Games|
+Wink,520.0,Clean Technology,San Jose,1,1,San Jose,Clean Technology,10.0,|Search|
+Ample Communications,12.7,Web Tools,San Mateo,0,0,San Mateo,Other_market,10.0,|Hardware + Software|
+BlueArc,68.0,Software,Mountain View,5,1,Mountain View,Software,9.9,|Web Hosting|
+Apieron,82.0,Health Care,Emeryville,4,0,Other_city,Health Care,10.0,|Medical Devices|Biotechnology|Health Care|
+ooma,8.33,Software,Redwood City,4,0,Redwood City,Software,10.0,|Peer-to-Peer|Social Media|VoIP|Mobile|Hardware + Software|
+Exavio,25.0,Chat,San Francisco,3,0,San Francisco,Other_market,9.875,|Games|
+Aggregate Knowledge,75.0,Web Hosting,Santa Clara,5,1,Santa Clara,Web Hosting,9.8,|Advertising|
+Workday,42.0,Security,Sunnyvale,6,0,Sunnyvale,Security,10.0,|Technology|World Domination|Colleges|Finance|SaaS|Human Resources|Web Development|Enterprise Software|
+A10 Networks,60.5,Technology,Fremont,3,0,Other_city,Technology,9.76923076923077,|Communications Hardware|Technology|Security|Virtualization|Cloud Computing|Optimization|SEO|Hardware|Networking|Web Hosting|
+Five9,96.244927,Biotechnology,San Carlos,4,0,Other_city,Biotechnology,9.833333333333334,|Technology|Enterprise Software|
+Jangl SMS,3.25,Web Hosting,Milpitas,2,0,Other_city,Web Hosting,8.875,|Email|Audio|Messaging|
+The Fanfare Group,20.0,Security,San Francisco,2,1,San Francisco,Security,10.0,|Enterprise Software|
+Gemini Mobile Technologies,116.167782,E-Commerce,San Jose,2,0,San Jose,E-Commerce,9.0,|Mobile|
+Turn,36.0,Television,Santa Clara,5,0,Santa Clara,Other_market,10.0,|Search|Advertising|
+FireEye,102.0,Internet of Things,Mountain View,6,0,Mountain View,Other_market,10.0,|Network Security|Security|
+Mercora,15.0,Games,Mountain View,1,0,Mountain View,Games,10.0,|Curated Web|
+Stream Processors,7.5,Curated Web,San Francisco,0,0,San Francisco,Curated Web,10.0,|Semiconductors|
+HopeLab,39.105997,Networking,Mountain View,0,0,Mountain View,Other_market,10.0,|Health and Wellness|Technology|Nonprofits|
+CrestaTech,31.4,Software,Palo Alto,1,0,Palo Alto,Software,10.0,|Software|
+Ad Infuse,5.0,Software,Santa Clara,2,1,Santa Clara,Software,10.0,|Mobile|Advertising|
+Cellfire,52.332109,Video,Mountain View,3,1,Mountain View,Video,10.0,|Digital Media|Coupons|Mobile|
+Savvy Cellar Wines,69.6,Semiconductors,Santa Clara,0,0,Santa Clara,Semiconductors,2.0,|Retail|Hospitality|E-Commerce|
+Mozilla,93.0,Biotechnology,South San Francisco,0,0,Other_city,Biotechnology,10.0,|Open Source|Browser Extensions|Curated Web|
+RGB Networks,46.0,Video on Demand,Redwood City,4,0,Redwood City,Other_market,10.0,|Video Streaming|Logistics|Games|
+Vertical Circuits,48.9,Video Streaming,San Francisco,2,0,San Francisco,Other_market,9.5,|Semiconductors|
+Applied Identity,154.67384,Semiconductors,San Jose,3,0,San Jose,Semiconductors,10.0,|Advertising|
+XenSource,8.75,Messaging,San Jose,3,0,San Jose,Messaging,10.0,|Software|
+Vocent,43.5,Software,San Francisco,3,1,San Francisco,Software,9.5,|Software|
+Chelsio Communications,5.28,Enterprise Software,San Mateo,6,0,San Mateo,Enterprise Software,9.88888888888889,|Web Hosting|
+Be Here,20.9,Advertising,Menlo Park,1,0,Menlo Park,Advertising,10.0,|Web Hosting|
+Venturi Wireless,2.33,Music,Palo Alto,3,0,Palo Alto,Music,10.0,|Mobile|
+LiteScape Technologies,94.0,Identity Management,Santa Clara,2,0,Santa Clara,Other_market,10.0,|Software|
+Razz,2.0,Semiconductors,Sunnyvale,2,0,Sunnyvale,Semiconductors,9.571428571428571,|Music|
+Devicescape,37.0,Software,Sunnyvale,2,0,Sunnyvale,Software,10.0,|Location Based Services|Mac|Home & Garden|Linux|iPhone|Android|Software|Wireless|Mobile|
+WhereNet,23.955361,Security,Sunnyvale,0,1,Sunnyvale,Security,10.0,|Hardware + Software|
+BlueLithium,47.311,Semiconductors,San Jose,1,1,San Jose,Semiconductors,10.0,|Search|Advertising|
+Cambrios Technologies,5.04,Software,Redwood City,4,0,Redwood City,Software,9.8,|Nanotechnology|
+Blue Lane Technologies,255.1,Peer-to-Peer,San Francisco,2,1,San Francisco,Other_market,10.0,|Web Hosting|
+"TheFind, Inc.",276.76,Advertising,Mountain View,3,0,Mountain View,Advertising,10.0,|Mobile|Local|Search|Shopping|E-Commerce|
+MeeVee,28.701975,Social Media,San Francisco,4,1,San Francisco,Social Media,9.285714285714286,|Video|Games|
+Voxify,4.0,Software,San Francisco,4,1,San Francisco,Software,10.0,|Enterprise Software|
+FilmLoop,13.0,Public Relations,San Jose,2,0,San Jose,Other_market,10.0,|Software|
+Kapow Software,27.0,News,San Francisco,3,1,San Francisco,News,10.0,|Enterprise Software|Data Integration|Big Data|Software|
+Mobilitec,25.05,Semiconductors,Milpitas,3,0,Other_city,Semiconductors,9.25,|Software|
+Location Labs,5.4,Web Hosting,Santa Clara,2,1,Santa Clara,Web Hosting,10.0,|Location Based Services|Security|Mobile|
+Codenomicon,79.729839,Medical,Sunnyvale,1,0,Sunnyvale,Other_market,9.5,|Security|
+Five Prime Therapeutics,15.0,Software,San Francisco,0,0,San Francisco,Software,9.833333333333334,|Health Care|Health and Wellness|Biotechnology|
+Pionetics,4.94,Hardware + Software,Campbell,3,0,Other_city,Hardware + Software,10.0,|Clean Technology|
+TriCipher,83.0,Biotechnology,Brisbane,4,1,Other_city,Biotechnology,10.0,|Enterprise Software|
+eSilicon,14.0,Mobile,San Jose,6,0,San Jose,Mobile,9.666666666666666,|Semiconductors|
+Traverse Networks,45.0,Email Marketing,Mountain View,2,1,Mountain View,Other_market,10.0,|Web Hosting|
+Palamida,28.3,Browser Extensions,Menlo Park,3,0,Menlo Park,Other_market,10.0,|Security|
+FibroGen,4.0,Advertising,San Mateo,0,0,San Mateo,Advertising,10.0,|Biotechnology|
+Solidcore Systems,22.6,Web Hosting,Sunnyvale,4,1,Sunnyvale,Web Hosting,10.0,|Software|
+Perlegen Sciences,27.0,Software,Santa Clara,4,0,Santa Clara,Software,9.6,|Biotechnology|
+Peerflix,20.7,Software,Emeryville,2,1,Other_city,Software,10.0,|Entertainment|Advertising|
+Movaris,2.5,Finance,Burlingame,3,0,Other_city,Finance,10.0,|Software|
+Optichron,51.277712,Software,Menlo Park,2,0,Menlo Park,Software,10.0,|Semiconductors|
+Baynote,12.0,Semiconductors,Milpitas,4,0,Other_city,Semiconductors,9.88888888888889,|Search|Web Design|Reviews and Recommendations|Software|
+4INFO,27.105665,Semiconductors,Santa Clara,5,0,Santa Clara,Semiconductors,9.633333333333333,|Mobile Advertising|Mobile|Information Technology|Local|CRM|Big Data|Advertising|
+Kaboodle,25.9,Clean Technology,Santa Clara,3,1,Santa Clara,Clean Technology,8.909090909090908,|Shopping|E-Commerce|
+MessageCast,95.0,Curated Web,Sunnyvale,1,1,Sunnyvale,Curated Web,10.0,|Messaging|
+Pheedo,10.0,Semiconductors,Campbell,1,0,Other_city,Semiconductors,10.0,|Advertising|
+Arroyo Video Solutions,40.3,Security,Mountain View,3,1,Mountain View,Security,10.0,|Games|
+CITTIO,328.6,Communications Hardware,Santa Clara,2,0,Santa Clara,Other_market,10.0,|Software|
+Valchemy,4.0,Mobile,Fremont,2,1,Other_city,Mobile,8.5,|Software|
+Transparency Software,6.5,Marketplaces,Palo Alto,1,0,Palo Alto,Other_market,10.0,|Software|
+G2 Microsystems,63.500002,Health Care,San Francisco,2,0,San Francisco,Health Care,9.875,|Hardware + Software|
+Good Technology,14.0,Shopping,Mountain View,5,0,Mountain View,Other_market,10.0,|Data Security|Mobile Security|Mobile Enterprise|Mobility|Information Security|Analytics|Software|
+Codefast,126.397292,Diagnostics,Brisbane,1,1,Other_city,Other_market,10.0,|Software|
+NeoScale Systems,21.720203,Web Hosting,Foster City,4,0,Other_city,Web Hosting,10.0,|Security|
+deCarta,54.7,Nanotechnology,Milpitas,4,0,Other_city,Other_market,9.76923076923077,|Software|
+Vhayu Technologies,6.0,Semiconductors,San Jose,3,1,San Jose,Semiconductors,10.0,|Enterprise Software|
+Elixir Medical,5.0,Curated Web,Redwood City,1,0,Redwood City,Curated Web,10.0,|Health Care|
+Vontu,25.2,SEO,San Mateo,4,1,San Mateo,Other_market,9.444444444444445,|Software|
+OuterBay Technologies,2.0,Real Estate,Oakland,3,1,Other_city,Other_market,10.0,|Software|
+Nominum,7.175,Video Streaming,San Francisco,4,0,San Francisco,Other_market,9.666666666666666,|Internet|Network Security|Sales and Marketing|Analytics|
+Encentuate,0.05,Photography,San Francisco,2,1,San Francisco,Photography,9.666666666666666,|Enterprise Software|
+Loyalty Lab,10.0,Software,Santa Clara,2,1,Santa Clara,Software,10.0,|Software|
+ReVera,13.075,Advertising,San Francisco,2,0,San Francisco,Advertising,10.0,|Semiconductors|
+Reply! Inc.,6.48,Hardware + Software,Cupertino,3,0,Other_city,Hardware + Software,9.714285714285714,|Lead Generation|Internet Marketing|Advertising|
+Cast Iron Systems,2.932278,Social Games,Palo Alto,6,1,Palo Alto,Other_market,10.0,|Software|
+Lexar Media,6.35,Biotechnology,Foster City,0,0,Other_city,Biotechnology,9.5,|Hardware + Software|
+B-Bridge International,40.927053,Marketing Automation,San Mateo,0,0,San Mateo,Other_market,7.333333333333333,|Biotechnology|
+Delivery Agent,15.0,Software,San Jose,5,0,San Jose,Software,10.0,|E-Commerce|
+newScale,8.5,Curated Web,San Francisco,4,1,San Francisco,Curated Web,9.75,|Enterprise Software|
+GroundWork,0.5,News,Berkeley,4,0,Other_city,News,10.0,|Cloud Management|Virtualization|Data Centers|Cloud Computing|Software|
+Noosh,91.0,Analytics,San Mateo,0,0,San Mateo,Analytics,10.0,|Software|
+Prosper,0.7,Software,Santa Clara,5,0,Santa Clara,Software,9.941176470588236,|Marketplaces|Credit|Personal Finance|Peer-to-Peer|Crowdfunding|Finance|
+ARIO Data Networks,40.3,Mobile Payments,Larkspur,5,0,Other_city,Other_market,9.666666666666666,|Hardware + Software|
+Grandis,20.0,Real Estate,San Francisco,0,1,San Francisco,Other_market,10.0,|Semiconductors|
+Apigee,13.0,Semiconductors,San Jose,6,0,San Jose,Semiconductors,9.96774193548387,|Cloud Data Services|Enterprise Software|
+Nimblefish Technologies,23.754,Network Security,San Jose,0,1,San Jose,Other_market,10.0,|Advertising|
+Talima Therapeutics,104.490061,Life Sciences,Mountain View,2,0,Mountain View,Other_market,10.0,|Biotechnology|
+SAY Media,41.2899,Hardware + Software,Palo Alto,4,0,Palo Alto,Hardware + Software,10.0,|Publishing|Media|Video|Advertising|
+AtHoc,125.964844,Health Care,Mountain View,2,0,Mountain View,Health Care,10.0,|Email|Enterprise Software|Security|
+Trapeze Networks,20.0,Wireless,Cupertino,4,1,Other_city,Other_market,9.833333333333334,|Wireless|Security|
+Applied MicroStructures,2.5,Enterprise Software,Redwood City,2,0,Redwood City,Enterprise Software,10.0,|Manufacturing|
+Teros,19.95,Software,San Mateo,4,0,San Mateo,Software,10.0,|Security|
+Network Chemistry,8.5,Mobile,Santa Clara,1,1,Santa Clara,Mobile,9.5,|Software|
+Laszlo Systems,57.764731,Analytics,San Mateo,3,1,San Mateo,Analytics,10.0,|Android|Social Media|User Experience Design|Mobile|Internet|Apps|Unifed Communications|Messaging|
+Kazeon,36.0,Semiconductors,Santa Clara,6,1,Santa Clara,Semiconductors,9.8,|Software|
+BeVocal,15.0,Social Network Media,San Francisco,5,1,San Francisco,Social Network Media,10.0,|Web Hosting|
+BeamExpress,32.5,Semiconductors,San Jose,3,0,San Jose,Semiconductors,10.0,|Web Hosting|
+InnerWorkings,7.5,E-Commerce,Redwood Shores,1,0,Other_city,E-Commerce,10.0,|Outsourcing|Software|
+Ingrian Networks,23.90306,Social Media,San Mateo,4,1,San Mateo,Social Media,10.0,|Privacy|Security|
+Bivio Networks,2.0,Curated Web,Palo Alto,4,0,Palo Alto,Curated Web,9.875,|Security|
+BDNA,49.256256,Direct Marketing,San Francisco,4,0,San Francisco,Other_market,10.0,|Software|
+Xelerated,11.0,Enterprise Software,Mountain View,5,1,Mountain View,Enterprise Software,9.857142857142858,|Semiconductors|
+T-RAM Semiconductor,1.04,Music,San Francisco,3,0,San Francisco,Music,10.0,|Semiconductors|
+Derceto,26.0,Manufacturing,Cupertino,0,0,Other_city,Other_market,8.0,|Software|
+Solexa,31.93,Games,San Jose,0,0,San Jose,Games,9.5,|Biotechnology|
+Infoblox,101.58,Analytics,Redwood City,5,0,Redwood City,Analytics,9.8,|Technology|Security|
+BayPackets,2.0,SaaS,Cupertino,4,0,Other_city,SaaS,10.0,|Software|
+Topio,25.762,Publishing,San Francisco,4,1,San Francisco,Other_market,10.0,|Enterprise Software|
+Purfresh,32.0,Semiconductors,Santa Clara,4,0,Santa Clara,Semiconductors,10.0,|Clean Technology|
+Nanosolar,20.5,iPhone,Sunnyvale,4,0,Sunnyvale,Other_market,9.909090909090908,|Clean Technology|Nanotechnology|
+PANTA Systems,14.0,Curated Web,Redwood City,0,0,Redwood City,Curated Web,9.5,|Enterprise Software|
+Mixercast,14.2,Enterprise Software,Mountain View,3,0,Mountain View,Enterprise Software,10.0,|Web Tools|Curated Web|
+SpikeSource,76.61355,Clean Technology,Santa Clara,3,1,Santa Clara,Clean Technology,10.0,|Software|
+PeakStream,15.4,Security,Sunnyvale,2,1,Sunnyvale,Security,10.0,|Software|
+Adamas Pharmaceuticals,19.25,Curated Web,Mountain View,4,0,Mountain View,Curated Web,10.0,|Health Care|
+Clarus Systems,7.92,Mobile,San Francisco,2,0,San Francisco,Mobile,10.0,|Software|
+netZentry,49.9,Security,Santa Clara,1,0,Santa Clara,Security,10.0,|Security|
+Mindjet,11.5,Enterprise Software,Los Gatos,2,0,Other_city,Enterprise Software,9.666666666666666,|Chat|Document Management|Video Conferencing|Collaboration|Software|
+Avidia,124.30978,Finance,Redwood City,3,1,Redwood City,Finance,10.0,|Pharmaceuticals|Medical|Biotechnology|
+Entrisphere,46.0,Software,San Leandro,3,0,Other_city,Software,10.0,|Web Hosting|
+Turbine,34.0,Software,San Mateo,3,1,San Mateo,Software,10.0,|Social Games|Games|
+Arcot Systems,127.336875,Biotechnology,Alameda,2,1,Other_city,Biotechnology,10.0,|Security|
+Novariant,12.2,Software,San Jose,4,0,San Jose,Software,9.642857142857142,|Technology|Gps|Industrial|Mechanical Solutions|
+Adchemy,25.305,Career Management,Santa Clara,5,1,Santa Clara,Other_market,9.909090909090908,|Advertising|
+Anacor Pharmaceutical,6.1,Software,Sunnyvale,5,0,Sunnyvale,Software,9.6,|Health Care|Biotechnology|
+Cellerant Therapeutics,45.5,Software,San Jose,2,0,San Jose,Software,8.571428571428571,|Biotechnology|
+Leverage Software,0.04,Mobile,Menlo Park,1,1,Menlo Park,Mobile,7.0,|Networking|Enterprise Software|
+IPextreme,42.0,Mobile,Sunnyvale,1,0,Sunnyvale,Mobile,9.5,|Semiconductors|
+SkyPilot Networks,10.0,Semiconductors,Milpitas,4,1,Other_city,Semiconductors,10.0,|Web Hosting|
+Voltage Security,21.0,Mobile,Santa Clara,4,0,Santa Clara,Mobile,10.0,|Databases|Data Security|Security|
+Blurb,88.2,Analytics,Pleasanton,3,0,Other_city,Analytics,10.0,|Collaboration|Marketplaces|Textbooks|Publishing|E-Commerce|
+VaST Systems Technology,6.0,Software,Livermore,4,0,Other_city,Software,9.714285714285714,|Software|
+Shenick Network Systems,5.5,Enterprise Software,Menlo Park,2,0,Menlo Park,Enterprise Software,10.0,|Web Hosting|
+IdenTrust,11.7256,Social Media,San Francisco,2,0,San Francisco,Social Media,10.0,|Security|
+Like.com,42.45,Semiconductors,Santa Clara,3,1,Santa Clara,Semiconductors,9.857142857142858,|Photography|Search|
+Force10 Networks,49.0,Networking,Santa Clara,5,0,Santa Clara,Other_market,10.0,|E-Commerce|
+Bay Microsystems,12.743716,Enterprise Software,San Mateo,4,0,San Mateo,Enterprise Software,10.0,|Web Hosting|
+NetBase Solutions,46.649369,Mobile,San Mateo,4,0,San Mateo,Mobile,9.7,|Analytics|Semantic Search|Enterprise Search|Social Media|
+Nomis Solutions,40.8,Software,Belmont,3,0,Other_city,Software,10.0,|Finance|
+Vudu,50.750012,Mobile,San Mateo,2,1,San Mateo,Mobile,9.142857142857142,|Television|Games|
+Jasper,1045.04,Construction,San Mateo,6,0,San Mateo,Other_market,4.0,|SaaS|Internet of Things|M2M|Cloud Computing|Mobile|
+PicksPal,130.003458,Health Care,Newark,3,1,Other_city,Health Care,10.0,|Sports|Games|
+Loomia,29.0,Health Care,Palo Alto,1,0,Palo Alto,Health Care,9.6,|Ediscovery|Reviews and Recommendations|Curated Web|
+Above All Software,4.0,Semiconductors,Fremont,0,0,Other_city,Semiconductors,9.5,|Software|
+Loopt,130.5,Data Integration,San Francisco,2,1,San Francisco,Other_market,10.0,|Location Based Services|Networking|Mobile|
+Reddit,108.4,Optimization,San Mateo,2,1,San Mateo,Other_market,9.625,|Social Media|News|
+ONStor,16.0,Health Care,Cupertino,6,1,Other_city,Health Care,10.0,|Web Hosting|
+Global Locate,16.0,Messaging,San Francisco,5,1,San Francisco,Messaging,9.2,|Semiconductors|
+GuardianEdge Technologies,0.56,Software,San Jose,2,1,San Jose,Software,10.0,|Enterprise Software|
+Zenprise,19.4,Manufacturing,Los Gatos,5,1,Other_city,Other_market,10.0,|Mobile Devices|Mobile Security|Mobility|Mobile|
+PortAuthority Technologies,417.040423,Chemicals,Emeryville,4,0,Other_city,Other_market,9.666666666666666,|Software|
+Crossbow Technologies,57.8,Software,Santa Clara,3,1,Santa Clara,Software,10.0,|Manufacturing|
+Clear Shape Technologies,17.0,Advertising,Mountain View,2,0,Mountain View,Advertising,9.0,|Software|
+Pixim,17.797546,Hardware + Software,Santa Clara,2,0,Santa Clara,Hardware + Software,9.733333333333333,|Video|Hardware + Software|
+Right Hemisphere,466.0,Clean Technology,Santa Clara,2,1,Santa Clara,Clean Technology,9.666666666666666,|Enterprise Software|
+Tilera,73.197633,Semiconductors,Santa Clara,4,1,Santa Clara,Semiconductors,9.75,|Semiconductors|
+Tectura,49.76191,Health Care,Sunnyvale,0,0,Sunnyvale,Health Care,9.5,|Software|
+Meru Networks,10.5,Enterprise Software,Santa Clara,5,0,Santa Clara,Enterprise Software,9.91891891891892,|Communications Hardware|Technology|Mobile|
+Jacent Technologies,5.0,Curated Web,Palo Alto,2,0,Palo Alto,Curated Web,8.875,|Software|
+Planitax,0.82,Education,San Rafael,3,1,Other_city,Education,10.0,|Finance|
+Federated Media,23.138876,Advertising,San Francisco,3,0,San Francisco,Advertising,9.0,|Brand Marketing|Business Development|Content|Digital Media|Advertising|
+Level 5 Networks,63.0471,Semiconductors,San Jose,2,1,San Jose,Semiconductors,9.75,|Semiconductors|
+Syndera Corporation,32.2,Mobile,San Francisco,2,0,San Francisco,Mobile,10.0,|Software|
+Xceive,3.6,Curated Web,Sunnyvale,3,0,Sunnyvale,Curated Web,9.75,|Semiconductors|
+Proofpoint,0.25,Media,San Francisco,5,0,San Francisco,Other_market,9.875,|Software|Technology|Enterprise Software|
+Analogix Semiconductor,24.5,Web Hosting,Sunnyvale,2,0,Sunnyvale,Web Hosting,10.0,|Semiconductors|
+Beceem Communications,24.766667,Software,Santa Clara,4,1,Santa Clara,Software,10.0,|Semiconductors|
+Slide,5.8,Biotechnology,Redwood City,4,1,Redwood City,Biotechnology,10.0,|Software|Social Network Media|Photography|Web Tools|Public Relations|
+Solstice Neurosciences,57.926567,Biotechnology,Mountain View,2,1,Mountain View,Biotechnology,10.0,|Biotechnology|
+Zazzle,57.616859,Internet,Fremont,2,0,Other_city,Other_market,10.0,|Video on Demand|E-Commerce|
+Mevio,7.0,Games,San Francisco,3,0,San Francisco,Games,10.0,|Video Streaming|Games|
+SearchMe,116.5,Doctors,San Francisco,5,0,San Francisco,Other_market,9.533333333333333,|Visual Search|Search|
+TimeBridge,13.8,Analytics,Redwood City,2,1,Redwood City,Analytics,10.0,|Collaboration|Online Scheduling|Meeting Software|Curated Web|
+DisplayLink,3.0,Health and Wellness,San Mateo,4,0,San Mateo,Health and Wellness,9.92,|Semiconductors|Hardware + Software|
+U4EA Wireless,11.0,Social Media,San Francisco,4,0,San Francisco,Social Media,9.75,|Mobile|
+NeoPhotonics,8.0,Crowdsourcing,San Mateo,3,0,San Mateo,Other_market,9.933333333333334,|Semiconductors|Web Hosting|
+Cenzic,17.550668,Social Business,Palo Alto,3,1,Palo Alto,Other_market,10.0,|Security|
+MetaLINCS,0.622,Software,Redwood City,1,1,Redwood City,Software,10.0,|Messaging|
+SeeControl,0.315,Finance,Mountain View,1,0,Mountain View,Finance,9.4,|Analytics|
+ConSentry Networks,7.0,Semiconductors,Milpitas,4,0,Other_city,Semiconductors,10.0,|Consulting|
+"WaveMaker, Inc.",1.5,Hardware + Software,San Jose,2,0,San Jose,Hardware + Software,9.666666666666666,|Cloud Computing|Enterprise Software|PaaS|Web Development|Open Source|
+Jaspersoft,1.5,Email,San Francisco,4,1,San Francisco,Other_market,9.954545454545455,|Open Source|Analytics|Web Development|Business Intelligence|Software|
+ZoomSystems,26.99139,Cloud Computing,Palo Alto,5,0,Palo Alto,Cloud Computing,10.0,|Hardware + Software|
+Aceva Technologies,0.875,Messaging,San Francisco,4,1,San Francisco,Messaging,10.0,|Enterprise Software|
+Kace Networks,10.0,Semiconductors,Campbell,2,1,Other_city,Semiconductors,10.0,|Software|
+Infotone Communications,8.454877,Biotechnology,Mountain View,1,0,Mountain View,Biotechnology,10.0,|Software|
+Alien Technology,11.812744,Medical,San Francisco,6,0,San Francisco,Other_market,9.75,|Semiconductors|
+Current Media,57.101284,Software,Pleasanton,1,0,Other_city,Software,8.0,|News|Web Hosting|
+DRC Computer,80.0,Web Hosting,San Francisco,0,1,San Francisco,Web Hosting,7.0,|Hardware + Software|
+GoingOn,20.25,Apps,Palo Alto,1,0,Palo Alto,Other_market,8.666666666666666,|Social Media|Enterprises|Networking|Software|
+VeriSilicon Holdings,1.4,Public Relations,Oakland,4,0,Other_city,Other_market,9.833333333333334,|Cloud Computing|Manufacturing|
+LimeLife,10.0,Real Estate,Palo Alto,2,1,Palo Alto,Other_market,10.0,|Advertising|Mobile Advertising|Mobile|News|
+mSpot,45.585068,Sales and Marketing,San Francisco,1,1,San Francisco,Other_market,10.0,|Music|
+QSecure,22.299999,Audio,Palo Alto,4,0,Palo Alto,Other_market,9.785714285714286,|Security|
+TrueDemand Software,20.0,Semiconductors,Sunnyvale,3,1,Sunnyvale,Semiconductors,10.0,|Software|
+Ecrio,12.0,Curated Web,Redwood City,3,0,Redwood City,Curated Web,9.727272727272727,|Software|
+PacketHop,75.0,Biotechnology,South San Francisco,3,0,Other_city,Biotechnology,10.0,|Automotive|Mobile|Networking|Consumer Electronics|Web Hosting|
+Centrify,23.0,Legal,Mountain View,5,0,Mountain View,Other_market,9.944444444444445,|Identity Management|Security|SaaS|
+Com2uS Corp.,18.45,Advertising,San Francisco,1,1,San Francisco,Advertising,10.0,|Games|
+Simple Star,0.5,Enterprise Software,Los Gatos,1,1,Other_city,Enterprise Software,9.0,|Photography|
+Cortina Systems,19.0,Games,San Francisco,4,1,San Francisco,Games,10.0,|Hardware|Software|Semiconductors|Hardware + Software|
+Dune Networks,73.255,Mobile,San Francisco,0,0,San Francisco,Mobile,10.0,|Semiconductors|
+Skytide,5.0,Web Hosting,Redwood Shores,1,0,Other_city,Web Hosting,10.0,|Video|Video Streaming|Analytics|
+NetDevices,7.0,Biotechnology,Pleasanton,2,1,Other_city,Biotechnology,10.0,|Software|
+Transera Communications,36.0,Biotechnology,San Francisco,4,0,San Francisco,Biotechnology,10.0,|Software|
+Alloptic,1.6,Games,Palo Alto,5,0,Palo Alto,Games,9.333333333333334,|Public Relations|
+Agiliance,46.37,Semiconductors,Fremont,2,0,Other_city,Semiconductors,9.7,|Security|
+ClairMail,14.2,Mobile,Palo Alto,4,1,Palo Alto,Mobile,10.0,|Mobile Commerce|Mobile Payments|Banking|Mobile|Finance|
+Adiana,12.0,Finance,Santa Clara,4,1,Santa Clara,Finance,9.88888888888889,|Biotechnology|
+Generic Media,2.5,Travel,San Francisco,0,0,San Francisco,Other_market,10.0,|Software|
+Allux Medical,6.0,Mobile,San Mateo,0,0,San Mateo,Mobile,10.0,|Health Care|
+Canesta,1.9,Security,Santa Clara,0,1,Santa Clara,Security,9.533333333333333,|Hardware + Software|
+Pacific Biosciences,23.3,Games,San Francisco,6,0,San Francisco,Games,9.96875,|Biotechnology|
+Discera,6.5,Health and Wellness,Santa Clara,4,0,Santa Clara,Health and Wellness,9.866666666666667,|Semiconductors|
+Ceon,10.019869,Unifed Communications,Santa Clara,0,1,Santa Clara,Other_market,10.0,|Software|
+fabrik,15.0,Biotechnology,Mountain View,4,1,Mountain View,Biotechnology,9.75,|Flash Storage|File Sharing|Storage|Hardware + Software|
+BitTorrent,12.0,Advertising,Sunnyvale,3,0,Sunnyvale,Advertising,10.0,|Peer-to-Peer|Apps|Software|
+Trulia,13.1,Social Media,San Francisco,4,1,San Francisco,Social Media,9.384615384615385,|Marketplaces|Peer-to-Peer|Mobile|Real Estate|
+Coupons.com,2.5,News,San Francisco,5,0,San Francisco,News,10.0,|Advertising|Coupons|Curated Web|
+Box,11.6,Game,Mountain View,6,0,Mountain View,Other_market,9.978260869565217,|SaaS|Cloud Computing|Storage|Flash Storage|File Sharing|Web Hosting|
+if(we),1.5,Social Media,San Jose,1,0,San Jose,Social Media,10.0,|Social Media|
+Visto,0.8,Curated Web,Oakland,0,0,Other_city,Curated Web,9.933333333333334,|Mobile|
+Quellan,93.5,Biotechnology,Redwood City,3,1,Redwood City,Biotechnology,9.5,|Semiconductors|
+Business Engine,9.5,Security,Santa Clara,0,1,Santa Clara,Security,10.0,|Software|
+LGC Wireless,86.2,Clean Technology,Richmond,2,1,Other_city,Clean Technology,9.538461538461538,|Public Relations|
+CollabNet,43.462,SaaS,San Francisco,2,1,San Francisco,SaaS,9.6,|Enterprise Software|
+Vendavo,14.5,Mobile Payments,San Jose,5,1,San Jose,Other_market,10.0,|Enterprises|B2B|Software|
+Mendocino Software,0.015,Consulting,Palo Alto,2,0,Palo Alto,Other_market,10.0,|Software|
+Zyme Solutions,0.02,Security,San Francisco,1,0,San Francisco,Security,10.0,|Hardware|Hardware + Software|
+Zinio,1107.215,Cloud Data Services,San Francisco,1,0,San Francisco,Other_market,10.0,|Publishing|Digital Media|News|
+Tempo Payments,20.7,Semiconductors,Menlo Park,4,0,Menlo Park,Semiconductors,9.727272727272727,|Software|
+Glimmerglass Networks,30.0,Hardware + Software,Sunnyvale,0,0,Sunnyvale,Hardware + Software,10.0,|Web Hosting|
+Stoke,67.5,Curated Web,San Francisco,5,0,San Francisco,Curated Web,9.863636363636363,|Mobile|
+DiObex,8.0,Consulting,Cupertino,2,0,Other_city,Other_market,9.88888888888889,|Biotechnology|
+Silver Peak,92.347081,Biotechnology,Newark,4,0,Other_city,Biotechnology,10.0,|Networking|Software|
+Mirapoint Software,30.24,Advertising,Palo Alto,2,1,Palo Alto,Advertising,8.666666666666666,|Messaging|
+Offermatica,12.1,Web Hosting,San Francisco,0,1,San Francisco,Web Hosting,10.0,|Software|
+Everdream,28.1,Hardware + Software,Sunnyvale,6,1,Sunnyvale,Hardware + Software,10.0,|Software|
+Capella Photonics,12.0,Nanotechnology,Santa Clara,4,0,Santa Clara,Other_market,9.875,|Web Hosting|
+Blue Vector Systems,1160.166511,Software,San Francisco,2,0,San Francisco,Software,9.333333333333334,|Public Relations|
+SugarSync,21.5,Mobile,Menlo Park,4,0,Menlo Park,Mobile,10.0,|Storage|Curated Web|
+Aquantia,4.0,Messaging,San Francisco,7,0,San Francisco,Messaging,10.0,|Semiconductors|
+Open Silicon,4.6,Curated Web,San Francisco,4,0,San Francisco,Curated Web,10.0,|Semiconductors|
+Paxera,35.856605,Enterprise Software,San Jose,1,0,San Jose,Enterprise Software,10.0,|Web Hosting|
+Identity Engines,1.4,Software,Sunnyvale,2,0,Sunnyvale,Software,10.0,|Security|
+Azul Systems,3.5,Software,Mountain View,0,0,Mountain View,Software,10.0,|Software|
+Automattic,48.05,Biotechnology,San Mateo,3,0,San Mateo,Biotechnology,9.11111111111111,|Web CMS|Content|Forums|Blogging Platforms|Curated Web|
+EBR Systems,22.0,Sales and Marketing,Foster City,3,0,Other_city,Other_market,9.88888888888889,|Medical|Biotechnology|
+TrustedID,9.0,Curated Web,Redwood City,2,1,Redwood City,Curated Web,10.0,|Security|
+Telegent Systems,39.8685,Enterprise Software,San Francisco,3,1,San Francisco,Enterprise Software,10.0,|Semiconductors|
+Arch Rock Corporation,1.7,Curated Web,San Francisco,2,1,San Francisco,Curated Web,10.0,|Software|
+Pathwork Diagnostics,69.426794,Technology,Palo Alto,3,0,Palo Alto,Technology,10.0,|Biotechnology|
+EchoSign,11.25,Health Care,Alameda,2,1,Other_city,Health Care,10.0,|Legal|Curated Web|
+Meebo,2.1,Medical,Santa Clara,4,1,Santa Clara,Other_market,10.0,|Web Development|Social Network Media|Internet|Chat|Messaging|Curated Web|
+AGEIA Technologies,28.277366,Health Care,Mountain View,3,1,Mountain View,Health Care,10.0,|Games|
+Ultriva,36.0,Enterprise Software,San Mateo,1,0,San Mateo,Enterprise Software,10.0,|Software|
+Hands-On Mobile,90.0,Clean Technology,San Jose,3,1,San Jose,Clean Technology,10.0,|Games|Mobile|
+VirtuOz,23.519998,Elder Care,San Mateo,2,1,San Mateo,Other_market,9.857142857142858,|Enterprise Software|
+Raven Biotechnologies,46.3,Games,Santa Clara,4,1,Santa Clara,Games,9.75,|Biotechnology|
+Certess,1.0,Curated Web,San Francisco,2,1,San Francisco,Curated Web,9.75,|Hardware + Software|
+Tercica,15.6,Software,Belmont,0,1,Other_city,Software,8.5,|Biotechnology|
+Mobileum,15.0,Curated Web,San Mateo,3,0,San Mateo,Curated Web,10.0,|Mobile|
+Goodmail Systems,5.0,Games,San Francisco,3,0,San Francisco,Games,10.0,|Email Marketing|Email|Messaging|
+Netcontinuum,8.0,Software,San Mateo,0,1,San Mateo,Software,10.0,|Enterprise Software|
+Vidient,40.0,Health Care,Menlo Park,2,0,Menlo Park,Health Care,10.0,|Analytics|
+BioPro Pharmaceutical,0.5,Travel,Emeryville,1,0,Other_city,Other_market,8.0,|Biotechnology|
+ForeScout Technologies,8.0,Chat,San Francisco,5,0,San Francisco,Other_market,10.0,|Security|
+Drobo,17.519999,Finance,San Francisco,5,0,San Francisco,Finance,10.0,|Hardware + Software|
+W5 Networks,1.0,Blogging Platforms,Los Altos,0,0,Other_city,Other_market,10.0,|Web Hosting|
+Hightail,10.0,Enterprise Software,Palo Alto,5,0,Palo Alto,Enterprise Software,9.96,|File Sharing|Mobile|Collaboration|Storage|
+Siterra,2.0,Games,San Francisco,3,1,San Francisco,Games,9.5,|Software|
+FreeBorders,2.0,Curated Web,Palo Alto,0,0,Palo Alto,Curated Web,9.0,|Consulting|
+CloudShield Technologies,11.0,Semiconductors,San Jose,0,1,San Jose,Semiconductors,9.777777777777779,|Web Hosting|
+Continuent,22.0,Enterprise Software,Santa Clara,2,0,Santa Clara,Enterprise Software,9.0,|Consumer Electronics|PaaS|Hardware + Software|Databases|SaaS|Open Source|Software|
+Tethys BioScience,57.554997,Health Care,Pleasanton,4,0,Other_city,Health Care,10.0,|Biotechnology|
+GCT Semiconductor,23.0,Real Estate,San Francisco,6,0,San Francisco,Other_market,8.916666666666666,|Semiconductors|
+Flock,9.0,Biotechnology,South San Francisco,4,1,Other_city,Biotechnology,10.0,|Browser Extensions|Social Media|Software|
+InsideTrack,12.0,Automotive,Menlo Park,0,0,Menlo Park,Other_market,10.0,|Education|
+Aster Data Systems,61.6,Social Media,San Francisco,3,1,San Francisco,Social Media,9.777777777777779,|Databases|Analytics|
+Smalltown,2.5,Internet Marketing,Oakland,1,0,Other_city,Other_market,10.0,|Advertising|
+Akimbi Systems,19.268235,Curated Web,Santa Clara,2,0,Santa Clara,Curated Web,10.0,|Software|
+Kosmix,5.0,Web Hosting,Mountain View,4,1,Mountain View,Web Hosting,9.818181818181818,|Curated Web|
+OpenDNS,135.147224,Clean Technology,Sunnyvale,3,0,Sunnyvale,Clean Technology,9.76923076923077,|Security|
+YouTube,42.0,Mobile,San Mateo,2,1,San Mateo,Mobile,10.0,|Video|Online Rental|Entertainment|Games|
+FlowMedica,29.5,Software,San Francisco,4,0,San Francisco,Software,9.6,|Health Care|
+Nanosys,60.0,Health Care,Menlo Park,6,0,Menlo Park,Health Care,9.894736842105264,|Nanotechnology|
+GigaFin Networks,1.25,Mobile,Palo Alto,3,0,Palo Alto,Mobile,9.666666666666666,|Public Relations|
+Agistics,84.491709,Analytics,Campbell,1,1,Other_city,Analytics,10.0,|Enterprise Software|
+Kovio,7.1,Manufacturing,Hayward,5,1,Other_city,Other_market,9.91891891891892,|Semiconductors|
+Double Fusion,26.787093,Hardware + Software,Sunnyvale,3,0,Sunnyvale,Hardware + Software,9.666666666666666,|Curated Web|
+Metara,0.2,Hospitality,Santa Clara,5,0,Santa Clara,Other_market,9.75,|Semiconductors|
+RealTravel,62.5,Biotechnology,Menlo Park,3,1,Menlo Park,Biotechnology,10.0,|Social Network Media|Travel|
+Anagran,26.0,Archiving,San Francisco,4,0,San Francisco,Other_market,9.714285714285714,|Web Hosting|
+OQO,7.7,Mobile,San Mateo,4,0,San Mateo,Mobile,9.75,|Computers|Mobile|
+Locaid,12.789996,Content Discovery,San Mateo,4,0,San Mateo,Other_market,10.0,|Location Based Services|Wireless|Mobile|Enterprise Software|
+BroadLight,42.1,Music,San Francisco,5,1,San Francisco,Music,9.666666666666666,|Software|
+Vivid Logic,11.0,Advertising,San Francisco,1,1,San Francisco,Advertising,10.0,|Games|
+Therma-Wave,980.0,Clean Technology,Sunnyvale,0,0,Sunnyvale,Clean Technology,8.0,|Semiconductors|
+Integrated Materials,18.7,News,San Francisco,3,1,San Francisco,News,,
+NetIQ,1.5,Online Travel,San Jose,2,0,San Jose,Other_market,9.333333333333334,|IT Management|Software|
+Limbo,47.0,Sports,Palo Alto,3,0,Palo Alto,Other_market,10.0,|Games|Mobile|
+Woven Systems,35.2,Twitter Applications,San Francisco,2,1,San Francisco,Other_market,10.0,|Web Hosting|
+TuneIn,51.979578,Software,San Francisco,2,0,San Francisco,Software,9.666666666666666,|Mobile|Guides|Music|
+Pinger,25.0,Health Care,Palo Alto,2,0,Palo Alto,Health Care,10.0,|Messaging|
+Mamapedia,9.4,Business Intelligence,Emeryville,1,0,Other_city,Other_market,10.0,|Social Media|
+Mimosa Systems,29.0,Biotechnology,Palo Alto,4,1,Palo Alto,Biotechnology,9.904761904761905,|Software|
+mValent,62.399999,Software,Campbell,3,1,Other_city,Software,10.0,|Software|
+BigFix,25.0,Analytics,Foster City,5,1,Other_city,Analytics,10.0,|Security|
+Agility Design Solutions,38.0,Software,Menlo Park,2,0,Menlo Park,Software,9.666666666666666,|Software|
+Trovix,1.3,Curated Web,San Francisco,2,1,San Francisco,Curated Web,9.4,|Search|Consulting|
+Ravenflow,12.197674,Advertising,Palo Alto,1,0,Palo Alto,Advertising,10.0,|Software|
+Cogency Software,22.0,Open Source,San Francisco,0,0,San Francisco,Other_market,10.0,|Finance|
+PGP Corporation,101.6,Lighting,Fremont,3,1,Other_city,Other_market,9.714285714285714,|Software|
+Sonics,7.05,Curated Web,Mill Valley,4,0,Other_city,Curated Web,10.0,|Semiconductors|
+INPHI,34.5,Advertising Platforms,San Francisco,4,0,San Francisco,Other_market,10.0,|Semiconductors|
+Xumii,6.0,Mobile,San Jose,0,1,San Jose,Mobile,9.2,|Chat|iPhone|Messaging|Networking|Mobile|
+W&W Communications,13.881227,Health Care,Newark,0,1,Other_city,Health Care,8.0,|Hardware + Software|
+Redfern Integrated Optics,20.367984,Creative,Emeryville,3,0,Other_city,Other_market,9.363636363636363,|Clean Technology|
+Sequence Design,1.1,Mobile,San Francisco,0,1,San Francisco,Mobile,9.571428571428571,|Software|
+Fabric7 Systems,67.0,Transportation,Palo Alto,3,0,Palo Alto,Other_market,9.666666666666666,|Web Hosting|
+BridgeWave Communications,6.5,Health Care,Palo Alto,4,0,Palo Alto,Health Care,9.115384615384615,|Wireless|Mobile|
+Telsima,7.8,Health Care,Menlo Park,3,0,Menlo Park,Health Care,10.0,|Curated Web|
+Fortify Software,10.5,Venture Capital,San Francisco,4,1,San Francisco,Other_market,10.0,|Software|
+Centrality Communications,4.3,Advertising,Redwood City,4,1,Redwood City,Advertising,10.0,|Semiconductors|
+Casabi,5.3,Advertising,Palo Alto,2,1,Palo Alto,Advertising,10.0,|Mobile|
+Intelliden,8.3,Social Media,Berkeley,5,1,Other_city,Social Media,10.0,|Software|
+Asetek,16.0,Security,Redwood City,2,0,Redwood City,Security,10.0,|Computers|Networking|Water|Hardware + Software|
+WiChorus,11.5,Web Tools,Redwood City,3,1,Redwood City,Other_market,10.0,|Web Hosting|
+Cradle Technologies,8.134,Curated Web,San Francisco,4,0,San Francisco,Curated Web,10.0,|Hardware + Software|
+Migo Software,8.0,Software,Cupertino,0,0,Other_city,Software,7.0,|Software|
+Atrenta,100.268406,Technology,San Francisco,4,0,San Francisco,Technology,9.9,|Software|
+Seriosity,63.659978,Automotive,Scotts Valley,0,0,Other_city,Other_market,10.0,|Software|
+TeleCIS Wireless,132.0,Clean Technology,Hayward,3,1,Other_city,Clean Technology,10.0,|Semiconductors|
+Summit Microelectronics,28.0,Wireless,Redwood City,0,1,Redwood City,Other_market,9.818181818181818,|Semiconductors|
+Azuro,15.0,Mobile,Milpitas,2,1,Other_city,Mobile,9.75,|Semiconductors|
+CSS Corp,4.0,Facebook Applications,San Francisco,2,0,San Francisco,Other_market,10.0,|Outsourcing|RIM|Web Design|Consulting|
+OurStory,40.499998,Health Care,Mountain View,1,0,Mountain View,Health Care,10.0,|Collaboration|Social Media|
+Fliqz,7.5,Finance,San Francisco,3,1,San Francisco,Finance,8.333333333333334,|Games|
+Sonopia,4.41,Mobile,Santa Clara,2,0,Santa Clara,Mobile,10.0,|Mobile|
+Samplify Systems,21.0,Online Gaming,San Francisco,2,0,San Francisco,Other_market,9.571428571428571,|Semiconductors|
+Primaeva Medical,22.75,Advertising,San Francisco,3,1,San Francisco,Advertising,10.0,|Health Care|
+Barosense,1.015,Organic Food,San Francisco,4,0,San Francisco,Other_market,10.0,|Biotechnology|
+SkyGrid,13.205,Semiconductors,Mountain View,2,0,Mountain View,Semiconductors,10.0,|Content|File Sharing|Ediscovery|Real Time|News|
+CellBiosciences,15.4012,Gambling,San Francisco,6,1,San Francisco,Other_market,9.958333333333334,|Biotechnology|
+Guardian Analytics,0.75,Browser Extensions,San Francisco,5,0,San Francisco,Other_market,10.0,|Security|
+cFares,1.685,Health and Wellness,San Francisco,2,0,San Francisco,Health and Wellness,10.0,|Career Planning|Travel|
+Glimpse.com,6.6,Advertising,Redwood City,1,1,Redwood City,Advertising,10.0,|Search|Fashion|
+Palo Alto Networks,65.230481,Storage,Sunnyvale,3,0,Sunnyvale,Other_market,10.0,|Communications Hardware|Network Security|Security|
+InSync Software,87.186401,Clean Technology,Los Gatos,2,0,Other_city,Clean Technology,10.0,|Software|
+Neoconix,26.7,CRM,San Mateo,3,0,San Mateo,Other_market,10.0,|Hardware + Software|
+GrandCentral,0.015,Social Media,San Francisco,1,1,San Francisco,Social Media,8.0,|VoIP|Telephony|Mobile|
+Picateers,4.0,Software,San Francisco,2,0,San Francisco,Software,10.0,|Education|Photography|Curated Web|
+Socializr,8.66,Curated Web,San Francisco,1,1,San Francisco,Curated Web,8.666666666666666,|Social Network Media|Events|Social Media|
+AnchorFree,7.0,Mobile,San Francisco,3,0,San Francisco,Mobile,8.454545454545455,|Mobile Security|Privacy|Wireless|Security|
+Edgeio,0.25,Email,Mountain View,1,0,Mountain View,Other_market,8.875,|Marketplaces|E-Commerce|
+Envis,358.929976,Communications Hardware,Redwood City,1,0,Redwood City,Other_market,10.0,|Software|
+Sutro Biopharma,4.7,Shopping,Palo Alto,4,0,Palo Alto,Other_market,9.826086956521738,|Biotechnology|
+Healthline Networks,5.0,Clean Technology,San Francisco,3,0,San Francisco,Clean Technology,9.833333333333334,|Doctors|Information Technology|Medical|Health and Wellness|Search|Health Care|
+Swoopo,13.6,Software,Sunnyvale,2,0,Sunnyvale,Software,10.0,|Shopping|Auctions|E-Commerce|
+MuseStorm,49.122326,Incentives,San Francisco,1,0,San Francisco,Other_market,8.5,|Curated Web|
+Browster,2.5,Web Hosting,Burlingame,1,0,Other_city,Web Hosting,10.0,|Software|
+VM Discovery,0.05,Social Network Media,San Francisco,2,0,San Francisco,Social Network Media,9.0,|Biotechnology|
+XDx,21.3,Travel,San Francisco,6,0,San Francisco,Other_market,9.88,|Health and Wellness|Fitness|Diagnostics|Health Care|Biotechnology|
+LoadStar Sensors,15.0,Enterprise Software,San Jose,1,0,San Jose,Enterprise Software,6.0,|Manufacturing|
+Barracuda Networks,12.0,Enterprises,San Francisco,0,0,San Francisco,Other_market,10.0,|Communications Hardware|Security|
+Encirq Corporation,4.0,Curated Web,Burlingame,2,0,Other_city,Curated Web,9.833333333333334,|Systems|Apps|Software|
+MailFrontier,74.174997,Virtualization,Mountain View,0,0,Mountain View,Other_market,10.0,|Messaging|
+PowerFile,1.6044,Mobile,San Francisco,2,0,San Francisco,Mobile,10.0,|Web Hosting|
+OnVantage,89.1,Home Decor,San Francisco,2,1,San Francisco,Other_market,10.0,|Software|
+Pivotal Systems,96.8,Clean Technology,Fremont,2,0,Other_city,Clean Technology,9.8,|Semiconductors|
+3VR,2.6,Search,Menlo Park,5,0,Menlo Park,Search,10.0,|Security|
+NanoGram,67.65,Curated Web,Redwood City,3,0,Redwood City,Curated Web,9.714285714285714,|Nanotechnology|
+Invarium,14.0,Clean Technology,San Francisco,2,1,San Francisco,Clean Technology,10.0,|Semiconductors|
+Provade,22.1,Fraud Detection,Menlo Park,6,1,Menlo Park,Other_market,10.0,|Enterprise Software|
+Attainia,10.0,Software,San Jose,3,0,San Jose,Software,6.5,|Software|
+Rapt,45.449379,Mobile,Milpitas,4,1,Other_city,Mobile,10.0,|Software|
+Apprion,3.181,Curated Web,San Francisco,3,0,San Francisco,Curated Web,9.416666666666666,|Mobile|
+RPO,24.0,Consumer Electronics,San Jose,2,0,San Jose,Other_market,9.0,|Hardware + Software|
+Spinal Modulation,52.893,Clean Technology,Mountain View,5,0,Mountain View,Clean Technology,9.894736842105264,|Medical Devices|Health Care|
+Assurz,7.5,Enterprise Software,Mountain View,1,0,Mountain View,Enterprise Software,6.0,|Curated Web|
+Attributor,4.95,Reviews and Recommendations,Palo Alto,4,1,Palo Alto,Other_market,10.0,|SEO|Software|
+Hammerhead Systems,41.102097,Unifed Communications,San Mateo,4,0,San Mateo,Other_market,10.0,|Web Hosting|
+PropertyBridge,19.540002,Mobile,San Francisco,1,1,San Francisco,Mobile,10.0,|Real Estate|
+Mobius Microsystems,12.0,Social Media,San Carlos,2,1,Other_city,Social Media,10.0,|Hardware + Software|
+Retrevo,925.0,Clean Technology,Palo Alto,2,1,Palo Alto,Clean Technology,10.0,|Semantic Web|Blogging Platforms|Tech Field Support|Consumer Electronics|Electronics|Search|Reviews and Recommendations|Shopping|Gadget|Hardware + Software|
+Ambarella,129.5,Wealth Management,Palo Alto,3,0,Palo Alto,Other_market,10.0,|Broadcasting|Security|Semiconductors|
+Amalfi Semiconductor,9.9,Games,Redwood City,3,1,Redwood City,Games,10.0,|Semiconductors|
+Peanut Labs,100.0,Mobile,Sunnyvale,2,1,Sunnyvale,Mobile,10.0,|Social Media|
+MySQL,12.0,Analytics,Palo Alto,3,1,Palo Alto,Analytics,10.0,|Lighting|Open Source|Databases|Enterprise Software|
+IMVU,7.995,Mobile Advertising,San Francisco,4,0,San Francisco,Other_market,9.777777777777779,|Virtual Currency|3D|Entertainment|Social Media|Games|
+Flixster,19.3,Search,Palo Alto,2,1,Palo Alto,Search,10.0,|Networking|Entertainment|Social Network Media|Video Streaming|Social Media|
+Zooomr,2.09,Security,San Francisco,0,0,San Francisco,Security,10.0,|File Sharing|Photography|Curated Web|
+C9 Inc.,142.0,Enterprise Software,San Francisco,4,0,San Francisco,Enterprise Software,9.75,|Sales and Marketing|Predictive Analytics|Analytics|Big Data|Software|
+Anthology Solutions,39.999998,Enterprise Search,Redwood City,2,0,Redwood City,Other_market,10.0,|Software|
+Penguin Computing,8.2,Retail,Redwood City,3,0,Redwood City,Other_market,8.933333333333334,|Software|
+Kasenna,4.3,Search,San Jose,5,1,San Jose,Search,10.0,|Software|
+MyStore.com,4.1,Sales and Marketing,San Francisco,0,0,San Francisco,Other_market,7.333333333333333,|Classifieds|Social Buying|E-Commerce|
+Catalyst Biosciences,23.0,Hardware + Software,Foster City,3,0,Other_city,Hardware + Software,9.958333333333334,|Biotechnology|
+Verix,8.0,Messaging,San Mateo,2,0,San Mateo,Messaging,10.0,|Analytics|
+Reactivity,9.13,Hardware + Software,Mountain View,0,1,Mountain View,Hardware + Software,10.0,|Enterprise Software|
+Netli,39.875,Browser Extensions,Mountain View,0,1,Mountain View,Other_market,10.0,|Web Hosting|
+Asempra Technologies,13.740487,Biotechnology,San Bruno,2,1,Other_city,Biotechnology,10.0,|Software|
+Vizu Corporation,10.0,Kids,San Francisco,2,1,San Francisco,Other_market,9.666666666666666,|Advertising|
+ApaceWave Technologies,1201.0,Analytics,Palo Alto,1,0,Palo Alto,Analytics,9.8,|Semiconductors|
+Neterion,1.0,Finance,San Francisco,4,1,San Francisco,Finance,10.0,|Hardware + Software|
+Tribe,42.0,Software,Fremont,2,1,Other_city,Software,8.333333333333334,|Social Media|
+Terracotta,94.885095,Software,Santa Clara,2,1,Santa Clara,Software,9.88888888888889,|Software|
+Punch Entertainment,34.0,Web Hosting,San Jose,1,0,San Jose,Web Hosting,9.0,|Chat|Virtual Worlds|Messaging|Social Games|Games|
+Telltale Games,8.8,Security,San Jose,3,0,San Jose,Security,10.0,|Games|
+Metaweb Technologies,37.675,Curated Web,San Francisco,2,1,San Francisco,Curated Web,10.0,|Databases|Curated Web|
+Wikia,110.5,Clean Technology,Redwood City,4,0,Redwood City,Clean Technology,9.238095238095237,|Social Media|Media|Search|Curated Web|
+Greenplum Software,332.5,Transportation,San Francisco,3,1,San Francisco,Other_market,9.833333333333334,|Business Intelligence|Collaboration|Video|Analytics|Big Data|Databases|Software|
+Cartilix,27.337143,Monetization,San Francisco,2,0,San Francisco,Other_market,10.0,|Biotechnology|
+Genius.com,10.85,Automotive,Burlingame,5,0,Other_city,Other_market,9.923076923076923,|Marketing Automation|Sales and Marketing|Software|
+Cassatt,1.2,Software,San Mateo,4,1,San Mateo,Software,10.0,|Software|
+Insider Pages,0.1,Music,San Francisco,1,1,San Francisco,Music,10.0,|Reviews and Recommendations|Business Services|Local|Curated Web|
+Visible Path,1.999999,Wireless,San Francisco,2,1,San Francisco,Other_market,10.0,|Business Services|Social Network Media|Social Media|
+SolFocus,104.325,Finance,Redwood City,3,0,Redwood City,Finance,9.947368421052632,|Solar|Clean Technology|
+Jajah,50.0,Biotechnology,Redwood City,3,1,Redwood City,Biotechnology,10.0,|Audio|Telephony|VoIP|Mobile|
+PodTech,13.292327,Software,San Mateo,1,0,San Mateo,Software,10.0,|Games|
+Evernote,35.0,Web Hosting,Sunnyvale,5,0,Sunnyvale,Web Hosting,9.80952380952381,|Software|
+Fultec Semiconductor,1507.45,Transportation,San Francisco,3,0,San Francisco,Other_market,9.8,|Semiconductors|
+Novera Optics,11.0,Mobile,Milpitas,0,0,Other_city,Mobile,9.4,|Web Hosting|
+Scrapblog,23.0,Enterprise Software,Campbell,3,1,Other_city,Enterprise Software,10.0,|Curated Web|
+Bigfoot Networks,18.25,Software,San Francisco,2,1,San Francisco,Software,9.0,|Technology|Interface Design|Hardware + Software|
+The Personal Bee,0.5,Curated Web,Richmond,0,0,Other_city,Curated Web,10.0,|News|
+obopay,23.6,Clean Technology,Hayward,5,0,Other_city,Clean Technology,9.666666666666666,|Mobile|
+Coremetrics,5.7,Enterprise Software,Mountain View,5,1,Mountain View,Enterprise Software,10.0,|Optimization|Analytics|Advertising|
+Ringthree Technologies,9.0,E-Commerce,San Francisco,1,0,San Francisco,E-Commerce,10.0,|Software|
+Juniper Medical,18.8,Biotechnology,Hayward,1,0,Other_city,Biotechnology,10.0,|Health Care|
+Starvine,46.050006,Biotechnology,San Francisco,1,0,San Francisco,Biotechnology,10.0,|Software|
+mFoundry,78.85,Marketing Automation,San Francisco,3,1,San Francisco,Other_market,9.666666666666666,|Mobile Payments|Mobile|
+MyNewPlace,0.6,Curated Web,San Francisco,2,1,San Francisco,Curated Web,8.5,|Real Estate|
+MediaPhy,56.351387,Mobile Security,San Jose,2,0,San Jose,Other_market,10.0,|Semiconductors|
+Montalvo Systems,15.5,Predictive Analytics,San Francisco,2,1,San Francisco,Other_market,10.0,|Semiconductors|
+Skybox Security,41.341484,Energy Efficiency,Sunnyvale,4,0,Sunnyvale,Other_market,9.5,|Network Security|Security|
+AmberPoint,4.0,Semiconductors,Santa Clara,4,1,Santa Clara,Semiconductors,10.0,|Curated Web|
+Complete Genomics,19.9,Mobile,Mountain View,5,0,Mountain View,Mobile,10.0,|Life Sciences|Biotechnology|
+M2Z Networks,193.0,Credit,San Francisco,1,0,San Francisco,Other_market,10.0,|Mobile|
+Ozmo Devices,2.9,Clean Technology,San Rafael,4,1,Other_city,Clean Technology,10.0,|Hardware + Software|
+Neotract,46.0,Enterprise Software,Milpitas,2,0,Other_city,Enterprise Software,10.0,|Health Care|
+Zimbra,19.0,Biotechnology,Menlo Park,3,1,Menlo Park,Biotechnology,9.333333333333334,|Collaboration|Productivity Software|Web Development|Email|Software|
+Billeo,76.0,Games,Palo Alto,2,0,Palo Alto,Games,10.0,|Personal Finance|Finance|
+DocuSign,1.0,Education,Mountain View,5,0,Mountain View,Education,9.880952380952381,|Information Security|Cloud Management|
+Vormetric,19.8,Biotechnology,Redwood City,4,0,Redwood City,Biotechnology,9.75,|Enterprise Software|
+Radar Networks,83.703892,Software,Santa Clara,2,1,Santa Clara,Software,8.909090909090908,|Semantic Web|SEO|Advertising|
+Renkoo,72.05,Security,San Francisco,2,0,San Francisco,Security,9.0,|Facebook Applications|Events|Chat|Social Media|
+Winster,5.0,Flash Storage,Santa Clara,1,0,Santa Clara,Other_market,10.0,|Games|
+BridgeLux,1.0,Software,San Francisco,5,0,San Francisco,Software,9.916666666666666,|Manufacturing|
+Ubicom,282.0,Security,San Francisco,5,0,San Francisco,Security,9.923076923076923,|Software|
+Clearwell Systems,0.5,Software,San Mateo,3,1,San Mateo,Software,10.0,|Ediscovery|Enterprise Software|
+Atrica,22.5,Recruiting,San Francisco,6,0,San Francisco,Other_market,9.777777777777779,|Web Hosting|
+RMI Corporation,0.015,E-Commerce,San Francisco,0,1,San Francisco,E-Commerce,10.0,|Wireless|Infrastructure|Semiconductors|
+Bridgestream,0.455,Clean Technology,San Francisco,2,1,San Francisco,Clean Technology,10.0,|Software|
+Nangate,9.4,Apps,Palo Alto,2,0,Palo Alto,Other_market,10.0,|Semiconductors|
+Before the Call,5.1,Social Network Media,San Francisco,1,0,San Francisco,Social Network Media,7.5,|Software|
+SST Inc. (Formerly ShotSpotter),0.4,Internet Marketing,San Francisco,4,0,San Francisco,Other_market,9.628571428571428,|Analytics|
+Authernative,8.0,Semiconductors,San Jose,1,0,San Jose,Semiconductors,10.0,|Enterprise Software|
+Network Physics,268.412808,Technology,Santa Clara,0,1,Santa Clara,Technology,10.0,|Enterprise Software|
+DiVitas Networks,2.35,Media,San Francisco,2,0,San Francisco,Other_market,9.909090909090908,|Messaging|
+Cape Clear Software,35.7,Hardware + Software,Sunnyvale,4,0,Sunnyvale,Hardware + Software,10.0,|Software|
+Nanochip,2.8,Social Search,San Francisco,3,0,San Francisco,Other_market,9.666666666666666,|Hardware|Semiconductors|
+MiNOWireless,8.25,Data Security,San Francisco,1,0,San Francisco,Other_market,5.5,|Mobile|
+Panaya,5.0,Residential Solar,San Francisco,4,0,San Francisco,Other_market,9.88888888888889,|Software|
+Mobilygen,13.95,Enterprise Software,Larkspur,4,0,Other_city,Enterprise Software,10.0,|Semiconductors|
+oDesk,2.076178,Hardware + Software,Palo Alto,4,0,Palo Alto,Hardware + Software,10.0,|Crowdsourcing|Freelancers|Staffing Firms|Employment|Human Resources|Curated Web|
+Silverback Systems,1.845836,Communities,San Francisco,0,0,San Francisco,Other_market,10.0,|Web Hosting|
+Icontrol Networks,0.8,Mobile,San Francisco,4,0,San Francisco,Mobile,9.944444444444445,|Security|
+Contactual,33.6,Software,Mountain View,1,1,Mountain View,Software,10.0,|Hardware + Software|
+FirstRain,1.5,Curated Web,Palo Alto,0,0,Palo Alto,Curated Web,10.0,|Analytics|
+SOASTA,103.795,Technology,South San Francisco,5,0,Other_city,Technology,10.0,|Internet|Testing|Cloud Data Services|Cloud Computing|Enterprise Software|
+Reconnex,88.2,Software,San Francisco,3,1,San Francisco,Software,10.0,|Data Security|Security|
+Negevtech,14.255,Social Network Media,San Francisco,4,0,San Francisco,Social Network Media,10.0,|Semiconductors|
+Powerset,1.601,Cloud Computing,San Francisco,1,1,San Francisco,Cloud Computing,9.11111111111111,|Search|
+Anchiva Systems,12.2,Databases,Mountain View,0,0,Mountain View,Other_market,10.0,|Web Hosting|
+Pageflakes,32.5,Biotechnology,South San Francisco,1,1,Other_city,Biotechnology,10.0,|Web Development|Web Design|Curated Web|
+Bebo,27.394996,Enterprise Software,Redwood City,1,1,Redwood City,Enterprise Software,10.0,|Social Network Media|Social Media|
+Cavendish Kinetics,0.05,Online Reservations,San Jose,2,0,San Jose,Other_market,9.625,|Semiconductors|
+Avangate BV,0.4,Curated Web,San Francisco,1,1,San Francisco,Curated Web,8.5,|Incentives|E-Commerce|
+Oodle,11.898299,Biotechnology,Emeryville,3,1,Other_city,Biotechnology,10.0,|Social Media|
+Sharetivity,2.45,Semiconductors,San Jose,0,0,San Jose,Semiconductors,5.0,|Curated Web|
+KAI Pharmaceuticals,1.217,Software,San Francisco,2,1,San Francisco,Software,10.0,|Medical|Biotechnology|
+MOG,35.0,Storage,San Francisco,5,1,San Francisco,Other_market,8.666666666666666,|Internet Radio Market|Music|
+Abazab,41.29,Advertising,San Francisco,0,0,San Francisco,Advertising,9.6,|Curated Web|
+Proximic,70.95,Health Care,South San Francisco,3,0,Other_city,Health Care,10.0,|Advertising|Analytics|
+DreamFactory Software,92.900035,Security,San Mateo,2,0,San Mateo,Security,10.0,|SaaS|Enterprise Software|
+Atempo,8.0,Software,San Francisco,2,0,San Francisco,Software,10.0,|Software|
+Hyperic,17.7,Enterprise Software,San Francisco,2,1,San Francisco,Enterprise Software,10.0,|Cloud Management|Software|
+SEVEN Networks,949.975292,Analytics,Palo Alto,4,0,Palo Alto,Analytics,9.9,|Wireless|Mobile Infrastructure|Software|
+MarkMonitor,0.55,Advertising,Palo Alto,0,1,Palo Alto,Advertising,10.0,|Enterprise Software|
+Teja Technologies,76.2,Health Care,San Francisco,0,0,San Francisco,Health Care,9.75,|Software|
+Sierra Design Automation,20.3,Enterprise Software,San Francisco,2,1,San Francisco,Enterprise Software,10.0,|Semiconductors|
+Imperva,46.12,Fashion,San Francisco,4,0,San Francisco,Other_market,10.0,|Software|Security|
+NinthDecimal,123.0,Finance,Menlo Park,2,0,Menlo Park,Finance,9.333333333333334,|Location Based Services|Mobile|Mobile Advertising|Mobile Analytics|Mobile Video|Brand Marketing|Ad Targeting|Direct Marketing|
+Instantis,1.31,News,San Francisco,4,1,San Francisco,News,10.0,|Software|
+moka5,15.0,Health Care,Sunnyvale,4,0,Sunnyvale,Health Care,10.0,|Enterprise Software|Software|
+Intacct,29.128,Health Care,Fremont,7,0,Other_city,Health Care,10.0,|Software|Accounting|Finance|SaaS|Cloud Computing|Enterprise Software|
+NeoPath Networks,0.4,Finance,San Francisco,3,1,San Francisco,Finance,10.0,|Enterprise Software|
+Qumu,0.77,Mobile,San Francisco,3,1,San Francisco,Mobile,9.6875,|Video Streaming|Video|Software|
+Presto Services,7.4,Curated Web,Foster City,0,0,Other_city,Curated Web,10.0,|Messaging|
+ArchPro Design Automation,87.386,Biotechnology,Novato,2,0,Other_city,Biotechnology,,
+SingShot Media,0.5,News,San Francisco,1,1,San Francisco,News,10.0,|Music|
+Oorja Fuel Cells,14.0,Advertising,San Mateo,1,0,San Mateo,Advertising,8.142857142857142,|Clean Technology|
+Cswitch,20.0,SEO,Sunnyvale,2,0,Sunnyvale,Other_market,9.875,|Semiconductors|
+Krugle,48.0,Education,San Francisco,2,1,San Francisco,Education,10.0,|Search|
+Berggi,1.2,Curated Web,San Francisco,0,0,San Francisco,Curated Web,9.0,|Mobile|
+Silicor Materials,0.6,Curated Web,San Francisco,6,0,San Francisco,Curated Web,10.0,|Manufacturing|
+Fangtek,32.8,Web CMS,San Francisco,3,0,San Francisco,Other_market,9.75,|Manufacturing|
+SendMe,1.3,E-Commerce,San Francisco,4,0,San Francisco,E-Commerce,9.933333333333334,|Mobile|
+Gaia Interactive,2.5,Curated Web,San Francisco,3,0,San Francisco,Curated Web,10.0,|Games|
+Talend,37.945,Enterprise Application,San Francisco,4,0,San Francisco,Other_market,9.714285714285714,|Analytics|
+Avvenu,49.0,Networking,San Francisco,0,1,San Francisco,Other_market,10.0,|Curated Web|
+Packet Island,7.1,Mobile,Los Altos,1,1,Other_city,Mobile,9.666666666666666,|VoIP|SaaS|Software|
+Widgetbox,12.0,News,Cupertino,2,0,Other_city,News,10.0,|File Sharing|Web Tools|Advertising|
+Xobni,5.0,Social Media,Palo Alto,3,1,Palo Alto,Social Media,9.758620689655173,|Software|
+Scribd,2.85,Software,Mountain View,3,0,Mountain View,Software,9.375,|Publishing|E-Books|Social Media|File Sharing|News|
+Phonezoo Communications,1.24,Big Data,Palo Alto,1,0,Palo Alto,Big Data,10.0,|Databases|Mobile|Curated Web|
+Silicon Clocks,189.7,Big Data,Santa Clara,2,1,Santa Clara,Big Data,10.0,|Manufacturing|
+MerchantCircle,79.328131,Health Care,Menlo Park,2,1,Menlo Park,Health Care,9.555555555555555,|Direct Marketing|Estimation and Quoting|Advice|Consumers|Business Services|Local|Curated Web|
+ANDA Networks,19.02641,Public Transportation,Santa Clara,0,0,Santa Clara,Other_market,9.333333333333334,|Mobile|
+Provigent,13.0,Developer APIs,Redwood City,5,1,Redwood City,Other_market,9.777777777777779,|Semiconductors|
+WSO2,14.379,Advertising,San Francisco,0,0,San Francisco,Advertising,9.833333333333334,|Open Source|Services|Software|
+InnoPath Software,2.0,Enterprise Software,San Francisco,4,0,San Francisco,Enterprise Software,9.666666666666666,|iPhone|Mobile Security|Wireless|Mobile Devices|Mobile|
+One True Media,3.0,Curated Web,Mountain View,2,0,Mountain View,Curated Web,10.0,|Collaboration|Video|Curated Web|
+ClearApp,129.375,Health Care,South San Francisco,2,1,Other_city,Health Care,10.0,|Enterprise Software|
+Qpixel Technology,1.1,Video,San Francisco,2,0,San Francisco,Video,9.25,|Semiconductors|
+Crocus Technology,26.8,Health and Wellness,Palo Alto,4,0,Palo Alto,Health and Wellness,9.9375,|Semiconductors|Clean Technology|
+Krillion,3.4,Enterprise Software,Menlo Park,1,1,Menlo Park,Enterprise Software,10.0,|Curated Web|
+IPLocks,12.8,Health Care,Newark,4,1,Other_city,Health Care,9.0,|Security|
+Funtigo Corporation,24.1095,Video,San Francisco,2,0,San Francisco,Video,10.0,|Photography|
+ClickShift,5.0,Mobile Games,San Francisco,1,1,San Francisco,Other_market,10.0,|Software|
+N-Sided,7.05,Enterprise Software,San Francisco,1,0,San Francisco,Enterprise Software,8.0,|Software|
+NearbyNow,4.325,Mobile Advertising,Palo Alto,3,1,Palo Alto,Other_market,10.0,|Curated Web|
+Compiere,3.45,Biotechnology,San Jose,1,0,San Jose,Biotechnology,10.0,|Enterprise Software|
+Adeze,6.525,Web Development,San Francisco,3,0,San Francisco,Other_market,8.333333333333334,|Advertising|
+OpVista,30.0,Consumer Goods,San Francisco,4,0,San Francisco,Other_market,10.0,|Telecommunications|Cable|Networking|Software|
+Aligo,1.5,Security,Santa Clara,0,0,Santa Clara,Security,10.0,|Mobile|
+Youth Noise,0.05,Curated Web,San Francisco,0,0,San Francisco,Curated Web,6.0,|SEO|Consulting|Internet Marketing|Nonprofits|
+Stretch,4.0,Education,San Francisco,3,1,San Francisco,Education,10.0,|Semiconductors|
+Attune Systems,139.5,Enterprise Software,San Leandro,2,0,Other_city,Enterprise Software,9.25,|Hardware + Software|
+WhiteHat Security,37.0,E-Commerce,San Bruno,4,0,Other_city,E-Commerce,9.875,|Security|
+Genelabs Technologies,46.819,Biotechnology,Cupertino,0,1,Other_city,Biotechnology,9.0,|Biotechnology|
+Cranite Systems,4.815,Software,San Francisco,3,0,San Francisco,Software,10.0,|Enterprise Software|
+DVDPlay,8.1,Education,San Carlos,0,0,Other_city,Education,9.75,|Automated Kiosk|Manufacturing|Entertainment|
+Yodlee,2.25,Diabetes,San Francisco,0,0,San Francisco,Other_market,10.0,|Finance|
+Scintera Networks,125.7,Music,San Francisco,3,1,San Francisco,Music,10.0,|Semiconductors|
+ePAC Technologies,8.45,Enterprise Software,San Mateo,3,0,San Mateo,Enterprise Software,10.0,|Software|
+ArcSight,3.5,CRM,San Francisco,3,1,San Francisco,Other_market,9.333333333333334,|Security|
+Metacafe,28.679147,Software,San Francisco,3,1,San Francisco,Software,10.0,|Television|Music|Sports|Video Games|Entertainment|Video|Games|
+Vuze,72.002285,Semiconductors,Newark,3,0,Other_city,Semiconductors,10.0,|Software|
+Aeluros,0.055,Software,Oakland,0,1,Other_city,Software,9.25,|Semiconductors|
+Kontera,55.0,Nanotechnology,Sunnyvale,4,1,Sunnyvale,Other_market,9.692307692307692,|Analytics|Big Data|Advertising|
+Aerohive Networks,23.7,Network Security,Santa Clara,6,0,Santa Clara,Other_market,10.0,|Technology|Mobile|
+KonaWare,108.0,Semiconductors,Santa Clara,3,1,Santa Clara,Semiconductors,7.0,|Software|
+inSilica,3.0,Health and Wellness,San Jose,0,0,San Jose,Health and Wellness,9.6,|Semiconductors|
+Exaprotect,20.0,Online Gaming,San Francisco,1,1,San Francisco,Other_market,9.833333333333334,|Security|
+Gear6,2.0,Audio,San Francisco,3,1,San Francisco,Other_market,10.0,|Databases|Web Hosting|
+Novalux,25.675,Hardware + Software,Palo Alto,2,0,Palo Alto,Hardware + Software,,
+Singulex,4.48,Digital Media,San Francisco,7,0,San Francisco,Other_market,10.0,|Biotechnology|
+Berkeley Design Automation,40.0,Health Care,Fremont,2,1,Other_city,Health Care,9.8,|Nanotechnology|
+Availigent,0.310121,Content,San Francisco,2,0,San Francisco,Other_market,10.0,|Software|
+Trinity Biosystems,8.0,Software,San Francisco,2,0,San Francisco,Software,9.777777777777779,|Biotechnology|
+Azteq Mobile,0.02,Health and Wellness,San Francisco,0,0,San Francisco,Health and Wellness,9.333333333333334,|Mobile|
+Matisse Networks,0.02,Health and Wellness,Mountain View,2,0,Mountain View,Health and Wellness,10.0,|Web Hosting|
+InvisibleCRM,86.7,Mobile,Mountain View,1,0,Mountain View,Mobile,8.0,|Enterprise Software|
+Kosan Biosciences,17.8,Crowdsourcing,San Francisco,0,1,San Francisco,Other_market,10.0,|Biotechnology|
+CardioDx,18.0,Curated Web,San Francisco,4,0,San Francisco,Curated Web,10.0,|Biotechnology|
+Stylehive,0.5,Enterprise Software,San Mateo,0,1,San Mateo,Enterprise Software,10.0,|Social Buying|Fashion|
+Digital Chocolate,1.0,Fashion,Sunnyvale,4,0,Sunnyvale,Other_market,9.846153846153847,|Mobile Games|Facebook Applications|Social Games|iPhone|Games|
+Accept Software,7.5,SaaS,San Francisco,3,1,San Francisco,SaaS,9.5,|Career Management|Software|
+SS8 Networks,7.7701,Big Data Analytics,San Francisco,2,0,San Francisco,Other_market,9.857142857142858,|Security|
+Allvoices,113.8,Point of Sale,San Francisco,1,1,San Francisco,Other_market,10.0,|Journalism|Media|News|
+Sanovi Technologies,4.1,Health and Wellness,Mountain View,2,0,Mountain View,Health and Wellness,10.0,|Software|
+"Splashtop, Inc",19.367098,Biotechnology,Redwood City,4,0,Redwood City,Biotechnology,9.458333333333334,|Environmental Innovation|Internet|Software|
+Viagogo,30.143747,Social Buying,Pleasanton,4,0,Other_city,Other_market,9.2,|E-Commerce|Databases|Curated Web|
+Gydget,0.8,iOS,San Carlos,1,1,Other_city,Other_market,10.0,|Networking|Web Tools|Games|
+BrightRoll,31.0,Clean Technology,Hayward,4,1,Other_city,Clean Technology,9.75,|Advertising Platforms|Online Video Advertising|Advertising|Software|
+Yoono,16.5,E-Commerce,Palo Alto,1,0,Palo Alto,E-Commerce,10.0,|Social Media|
+Reveal Technology,0.25,E-Commerce,Mountain View,1,0,Mountain View,E-Commerce,10.0,|Software|
+4Home,12.4,Recruiting,Mountain View,2,1,Mountain View,Other_market,10.0,|Automotive|Clean Energy|Internet|Cloud Computing|Wireless|Software|
+Adify,7.5,Software,Palo Alto,2,1,Palo Alto,Software,10.0,|Advertising|
+GoLive! Mobile,81.575,Clean Technology,Sunnyvale,0,0,Sunnyvale,Clean Technology,2.0,|Advertising|App Marketing|Mobile|
+Habeas,2.0,Advertising,Campbell,0,1,Other_city,Advertising,9.666666666666666,|Enterprise Software|
+Carrier IQ,50.0,SaaS,San Francisco,4,0,San Francisco,SaaS,10.0,|Wireless|Mobile|
+Oxford Semiconductor,135.100005,Health Care,Novato,2,0,Other_city,Health Care,10.0,|Semiconductors|
+Codexis,14.0,Software,San Francisco,4,0,San Francisco,Software,9.8,|Biotechnology|
+Questra,6.825,Social Media Monitoring,San Mateo,4,1,San Mateo,Other_market,10.0,|M2M|Software|
+Nodality,4.935,Enterprise Software,Redwood City,3,0,Redwood City,Enterprise Software,10.0,|Biotechnology|
+Acumen Pharmaceuticals,3.272,Software,San Jose,0,0,San Jose,Software,9.0,|Biotechnology|
+Iamba Networks,39.0,Analytics,San Francisco,2,0,San Francisco,Analytics,10.0,|Public Relations|
+Unisfair,3.45,Health Care,Palo Alto,3,1,Palo Alto,Health Care,10.0,|Enterprise Software|
+Azaire Networks,6.725,Electronic Health Records,Mountain View,3,0,Mountain View,Other_market,9.75,|Mobile|
+B-hive Networks,14.6,Manufacturing,Sunnyvale,1,1,Sunnyvale,Other_market,10.0,|Networking|Finance|
+PlayPhone,0.04,Biotechnology,Berkeley,3,0,Other_city,Biotechnology,10.0,|Games|
+Amitive,7.659999,Enterprise Software,Palo Alto,1,0,Palo Alto,Enterprise Software,9.5,|Software|
+Groxis,24.0,Big Data Analytics,San Francisco,2,0,San Francisco,Other_market,8.5,|Enterprise Software|
+IntegenX,1.0,Marketplaces,Santa Clara,3,0,Santa Clara,Other_market,9.736842105263158,|Analytics|Biotechnology|
+Picaboo,11.5,E-Commerce,San Francisco,2,0,San Francisco,E-Commerce,7.714285714285714,|Photography|
+BMG Controls,0.15,Health and Insurance,San Francisco,0,0,San Francisco,Other_market,10.0,|Software|
+Efficient Frontier,1.5,Games,Palo Alto,3,1,Palo Alto,Games,10.0,|Advertising|
+BoardVantage,25.9,Recruiting,San Francisco,4,0,San Francisco,Other_market,10.0,|Enterprise Software|
+Soonr,0.9,Education,San Francisco,4,0,San Francisco,Education,10.0,|Cloud Computing|Security|Mobile|Enterprise Software|
+Dogster,58.25,Health and Wellness,Redwood City,0,1,Redwood City,Health and Wellness,8.222222222222221,|Social Network Media|Social Media|Pets|
+Revision3,13.9,Curated Web,Palo Alto,2,1,Palo Alto,Curated Web,9.5,|Social Bookmarking|Video|Games|
+GainSpan,3.7,Employment,Mountain View,4,0,Mountain View,Other_market,9.793103448275861,|Semiconductors|
+Swivel,4.77,Mobile,San Francisco,1,0,San Francisco,Mobile,8.0,|Search|
+AdMob,43.5,Enterprise Software,Redwood City,3,1,Redwood City,Enterprise Software,9.9,|Mobile|Advertising|
+Miyowa,4.7,Gamification,San Francisco,2,1,San Francisco,Other_market,9.25,|Social Media|
+Exeros,4.25,Software,San Francisco,2,1,San Francisco,Software,10.0,|Analytics|
+Kilopass,0.584988,Web Development,San Mateo,4,0,San Mateo,Other_market,9.857142857142858,|Semiconductors|
+Alvine Pharmaceuticals,65.2,Analytics,San Mateo,1,0,San Mateo,Analytics,10.0,|Biotechnology|
+Liquid Engines,2.3,Facebook Applications,Redwood Shores,3,1,Other_city,Other_market,10.0,|Software|
+Mobixell Networks,4.205538,Biotechnology,Palo Alto,1,1,Palo Alto,Biotechnology,9.384615384615385,|Mobile|
+Promptu Systems,71.0,Medical Devices,Menlo Park,3,0,Menlo Park,Other_market,9.5,|Mobile|
+OpSource,15.7,Automotive,San Francisco,5,0,San Francisco,Other_market,9.76923076923077,|Networking|Cloud Security|PaaS|SaaS|IaaS|Cloud Computing|Web Hosting|
+PBworks,119.0,Analytics,San Mateo,1,0,San Mateo,Analytics,8.88888888888889,|Cloud Computing|Enterprises|Productivity Software|Collaboration|Social Media|Web Tools|Enterprise Software|
+Sonim Technologies,7.0,Creative,Mountain View,0,0,Mountain View,Other_market,9.4,|Mobile|
+Vyatta,1.85,Sensors,San Francisco,4,1,San Francisco,Other_market,10.0,|Software|
+Mocana,0.2,Mobile,San Francisco,4,0,San Francisco,Mobile,9.928571428571429,|Cyber|Mobile Security|Security|
+Quantance,3.0,Education,Mountain View,4,0,Mountain View,Education,9.933333333333334,|Mobile|Semiconductors|
+SolarCity,0.1,High Tech,Palo Alto,5,0,Palo Alto,Other_market,9.619047619047619,|Construction|Clean Technology|
+NeoVista,2.026196,Software,San Francisco,5,0,San Francisco,Software,10.0,|Health Care|
+Innotas,0.34,Advertising,San Francisco,3,0,San Francisco,Advertising,9.8,|Project Management|Enterprise Software|
+PEAK Surgical,5.25,Search,San Francisco,3,1,San Francisco,Search,10.0,|Health Care|
+Vignani,0.18,Apps,Palo Alto,1,0,Palo Alto,Other_market,10.0,|Semiconductors|
+Intermolecular,30.6,Enterprise Software,Redwood City,4,0,Redwood City,Enterprise Software,9.714285714285714,|Semiconductors|
+Packetmotion,2.304999,Mobile,San Francisco,3,1,San Francisco,Mobile,10.0,|Enterprise Software|
+RingCube Technologies,3.502,Advertising,Santa Clara,2,1,Santa Clara,Advertising,10.0,|Software|
+mobiDEOS,7.65,E-Commerce,Mountain View,0,0,Mountain View,E-Commerce,10.0,|Mobile|
+Genbook,2.2,Coupons,Santa Clara,1,0,Santa Clara,Other_market,8.0,|Software|
+Enkata Technologies,7.8,Retail,Mountain View,4,0,Mountain View,Other_market,9.5,|Business Productivity|Business Intelligence|Sales and Marketing|Analytics|
+Twelvefold,2.628,3D Printing,San Mateo,3,0,San Mateo,Other_market,9.333333333333334,|Advertising|
+MetricStream,0.3,Social Commerce,San Francisco,4,0,San Francisco,Other_market,9.375,|Risk Management|Software|
+NeoGuide Systems,0.4,Social Media,San Francisco,3,1,San Francisco,Social Media,10.0,|Biotechnology|
+Bunchball,0.37,Ediscovery,San Francisco,3,0,San Francisco,Other_market,10.0,|Games|Software|
+Ribbit,12.5,Analytics,Foster City,2,1,Other_city,Analytics,9.75,|Audio|VoIP|Mobile|
+Mint,12.114796,Electronics,San Francisco,3,1,San Francisco,Other_market,9.73913043478261,|Finance|Curated Web|
+Conformia Software,6.333407,Mobility,Sunnyvale,4,1,Sunnyvale,Other_market,9.8,|Software|
+MuleSoft,10.0,Biotechnology,San Carlos,4,0,Other_city,Biotechnology,10.0,|Business Intelligence|Data Integration|Enterprise Software|
+Marketo,27.4,Semiconductors,San Jose,6,0,San Jose,Semiconductors,10.0,|Brand Marketing|Lead Management|Analytics|Optimization|Lead Generation|B2B|Software|
+TalkPlus,36.0,Enterprise Software,San Francisco,1,0,San Francisco,Enterprise Software,10.0,|Messaging|
+Boardwalktech,1.75,Software,San Francisco,0,0,San Francisco,Software,9.0,|Databases|Enterprise Software|
+POPSUGAR,5.417787,Toys,San Francisco,3,0,San Francisco,Other_market,9.8,|Shopping|Lifestyle|Content|Fitness|Beauty|Fashion|Entertainment|Women|Curated Web|
+Songbird,15.000626,Biotechnology,Menlo Park,1,0,Menlo Park,Biotechnology,10.0,|Media|Open Source|Music|Mobile|
+FusionStorm,1.0,Artificial Intelligence,Palo Alto,0,0,Palo Alto,Other_market,9.0,|Software|
+Concilio Networks,2.5,Hotels,San Francisco,0,0,San Francisco,Other_market,,
+Anchor Semiconductor,6.0,Clean Energy,San Leandro,2,0,Other_city,Other_market,10.0,|Semiconductors|
+Tymphany,26.0,Cloud Computing,Mountain View,0,0,Mountain View,Cloud Computing,10.0,|Hardware|Audio|Hardware + Software|
+Novare Surgical,59.5,All Students,San Francisco,4,0,San Francisco,Other_market,9.833333333333334,|Health Care|
+Chip Estimate,45.7,Coffee,Oakland,0,0,Other_city,Other_market,9.0,|Semiconductors|
+Zannel,1.164,Internet of Things,Palo Alto,2,1,Palo Alto,Other_market,10.0,|Social Network Media|Messaging|
+Miradia,0.025,Games,San Francisco,3,0,San Francisco,Games,10.0,|Semiconductors|
+Achaogen,40.5,Technology,San Francisco,3,0,San Francisco,Technology,10.0,|Health Care|Biotechnology|
+Celiro,0.02,Health and Wellness,San Francisco,1,0,San Francisco,Health and Wellness,3.0,|Software|
+iWatt,0.02,Health and Wellness,San Francisco,5,1,San Francisco,Health and Wellness,10.0,|Manufacturing|
+Greystripe,2.0,Video Games,Palo Alto,3,1,Palo Alto,Other_market,9.7,|Media|Advertising|
+Amyris Biotechnologies,9.952199,Intelligent Systems,San Francisco,4,0,San Francisco,Other_market,9.9375,|Chemicals|Renewable Energies|Clean Technology|
+Ruckus Wireless,12.8,Recruiting,San Francisco,7,0,San Francisco,Other_market,9.619047619047619,|Communications Hardware|Wireless|Mobile|
+Fat Spaniel Technologies,2.2,Mobile,San Francisco,2,1,San Francisco,Mobile,10.0,|Clean Technology|
+Validity Sensors,0.025,Sports,San Francisco,5,1,San Francisco,Other_market,9.88,|Biometrics|Enterprise Software|
+VMLogix,74.6,Biotechnology,Redwood City,1,0,Redwood City,Biotechnology,10.0,|Software|
+NComputing,52.7,Biotechnology,San Jose,1,0,San Jose,Biotechnology,9.75,|Software|
+Neocase Software,3.429998,Manufacturing,San Francisco,4,0,San Francisco,Other_market,10.0,|Software|
+Sentilla,4.0,Software,San Francisco,3,0,San Francisco,Software,9.4,|IT Management|Software|
+Skyrider,44.11516,Advertising,Mountain View,3,0,Mountain View,Advertising,10.0,|Advertising|
+CiraNova,10.0,E-Commerce,San Francisco,3,1,San Francisco,E-Commerce,9.333333333333334,|Hardware + Software|
+Mobile Content Networks,75.0,Analytics,Redwood City,1,0,Redwood City,Analytics,9.25,|Mobile|
+Tablus,52.0,E-Commerce,Palo Alto,2,0,Palo Alto,E-Commerce,10.0,|Software|
+eBuddy,64.0168,Biotechnology,San Jose,2,0,San Jose,Biotechnology,8.5,|Media|Databases|Messaging|
+Maya's Mom,1.12,Health and Wellness,Oakland,0,1,Other_city,Health and Wellness,8.285714285714286,|Social Network Media|Social Media|
+Quantum Secure,8.1,Curated Web,San Francisco,1,0,San Francisco,Curated Web,9.0,|Enterprise Software|
+Echopass Corporation,3.05,Content Discovery,San Francisco,5,1,San Francisco,Other_market,10.0,|Web Hosting|
+Aruba Networks,39.044997,Online Shopping,San Francisco,4,0,San Francisco,Other_market,10.0,|Communications Hardware|Wireless|Mobility|Enterprise Software|
+LucidPort Technology,8.0,Retail Technology,San Francisco,2,0,San Francisco,Other_market,10.0,|Semiconductors|
+MiaSolé,8.5,IaaS,San Francisco,6,0,San Francisco,Other_market,9.95,|Clean Technology|
+Narus,2.649997,Social Network Media,San Francisco,0,1,San Francisco,Social Network Media,10.0,|Security|
+Course Hero,1.5,Video Conferencing,Palo Alto,1,0,Palo Alto,Other_market,6.961538461538462,|Marketplaces|Crowdsourcing|Education|
+Netronome Systems,0.26,Education,Palo Alto,5,0,Palo Alto,Education,9.642857142857142,|Semiconductors|
+Amobee,7.775,Clean Energy,Menlo Park,4,1,Menlo Park,Other_market,9.846153846153847,|Advertising|
+Avantis Medical Systems,18.780159,Curated Web,San Francisco,2,0,San Francisco,Curated Web,10.0,|Health Care|
+Topix,1.2,Social Media,Berkeley,2,0,Other_city,Social Media,9.0,|Local Based Services|News|
+United Information Technology,6.6,Enterprise Software,San Mateo,0,0,San Mateo,Enterprise Software,10.0,|Enterprise Software|
+Gecko Audio,0.55,Search,San Francisco,1,0,San Francisco,Search,10.0,|Software|
+Eventbrite,0.5,Security,San Francisco,6,0,San Francisco,Security,9.25,|Events|Curated Web|
+ChaCha,0.04,Travel,San Rafael,6,0,Other_city,Other_market,9.3,|Search|Advertising|
+"TurnHere, Inc.",97.0,Biotechnology,Redwood City,2,0,Redwood City,Biotechnology,9.6,|Film|Distribution|Video|Digital Media|Curated Web|
+Ardian,10.66,Analytics,Oakland,3,1,Other_city,Analytics,10.0,|Health Care|
+Nethra Imaging,4.3,Analytics,Santa Clara,3,0,Santa Clara,Analytics,9.2,|Semiconductors|
+Ugenie,18.999999,Biotechnology,San Francisco,0,0,San Francisco,Biotechnology,10.0,|Curated Web|
+PayEase,4.5,Group Buying,Sausalito,0,0,Other_city,Other_market,8.5,|E-Commerce|
+World of Good,69.5,Venture Capital,Pleasanton,2,0,Other_city,Other_market,10.0,|E-Commerce|
+Verient,3.475521,Curated Web,San Francisco,1,0,San Francisco,Curated Web,8.6,|Finance|
+MyMiniLife,9.5,Curated Web,Corte Madera,0,1,Other_city,Curated Web,5.2,|Games|
+Voyage Medical,0.025,Social Media,San Francisco,3,0,San Francisco,Social Media,10.0,|Health Care|
+SeeSaw Networks,5.746508,Curated Web,San Mateo,2,0,San Mateo,Curated Web,8.0,|News|Advertising|
+Health Hero Network(Bosch Healthcare),22.0,Social Media,San Francisco,2,1,San Francisco,Social Media,9.8,|Software|
+Solaicx,129.322827,Biotechnology,San Jose,0,1,San Jose,Biotechnology,10.0,|Clean Technology|
+Vocera Communications,0.72,Curated Web,Sunnyvale,0,0,Sunnyvale,Curated Web,10.0,|Telecommunications|Mobile|
+Intematix,28.097672,Enterprise Software,Millbrae,3,0,Other_city,Enterprise Software,9.75,|Manufacturing|
+Intradigm Corporation,33.2,Big Data,San Francisco,2,1,San Francisco,Big Data,9.76923076923077,|Health and Wellness|Biotechnology|
+Teranetics,20.3042,Enterprise Software,Palo Alto,3,1,Palo Alto,Enterprise Software,10.0,|Semiconductors|
+Uptake,47.523823,Flash Storage,Newark,2,1,Other_city,Other_market,9.2,|Search|Travel|
+iSkoot,8.75,Big Data,Santa Clara,3,1,Santa Clara,Big Data,9.333333333333334,|Mobile|
+Impedance Cardiology Systems,3.32,Cloud Computing,Mountain View,2,0,Mountain View,Cloud Computing,10.0,|Biotechnology|
+SARcode Bioscience,66.0,Advertising,San Carlos,2,1,Other_city,Advertising,10.0,|Biotechnology|
+PixSense,7.2,Cloud Computing,San Francisco,2,0,San Francisco,Cloud Computing,10.0,|Mobile|
+Kiptronic,20.4,Mobile,Redwood City,1,1,Redwood City,Mobile,10.0,|Monetization|Content|Audio|Video|Digital Media|Media|Advertising|
+Zing Systems,13.6,PaaS,San Francisco,3,1,San Francisco,Other_market,9.8,|Music|Games|
+Xoopit,1.540943,Photography,San Francisco,1,1,San Francisco,Photography,7.285714285714286,|Photo Sharing|Search|Email|Social Network Media|Curated Web|
+Frengo,3.3,Curated Web,San Francisco,2,0,San Francisco,Curated Web,10.0,|Social Media|
+Minekey,1.1,Mobile,Mountain View,1,0,Mountain View,Mobile,10.0,|Curated Web|
+TwoFish,0.395,Mobile,San Francisco,2,1,San Francisco,Mobile,10.0,|E-Commerce|
+NaturalPath Media,0.345,Big Data,San Francisco,0,1,San Francisco,Big Data,2.0,|Green|Media|Advertising|
+Omnidrive,26.0,Health Care,Redwood City,0,0,Redwood City,Health Care,8.75,|Internet|File Sharing|Storage|Web Hosting|
+PLYmedia,14.0,Retail,San Francisco,1,0,San Francisco,Other_market,7.6,|Blogging Platforms|Media|Video|Advertising|
+Crescendo Networks,6.0,Loyalty Programs,San Francisco,4,1,San Francisco,Other_market,9.875,|Web Hosting|
+MontaVista Software,50.7,All Markets,San Francisco,0,1,San Francisco,Other_market,9.8,|Software|
+Replay Solutions,10.8,SaaS,San Jose,2,0,San Jose,SaaS,10.0,|Software|
+Mobile Complete,3.8,Photography,Berkeley,0,0,Other_city,Photography,10.0,|Software|
+Atrua Technologies,34.8,Real Time,Redwood City,5,1,Redwood City,Other_market,9.125,|Mobile|
+mywaves,0.642,Forums,San Francisco,1,0,San Francisco,Other_market,10.0,|Video|Mobile|
+Untangle,6.0,Mobile,San Francisco,2,0,San Francisco,Mobile,10.0,|Public Relations|Promotional|Brand Marketing|Media|Social Media|Software|
+Kriyari,1.75,Apps,San Mateo,0,0,San Mateo,Other_market,10.0,|Curated Web|
+Solid Information Technology,0.759,Curated Web,Sunnyvale,0,1,Sunnyvale,Curated Web,9.5,|Software|
+Forte Design Systems,31.361,Video,Santa Clara,4,0,Santa Clara,Video,8.833333333333334,|Software|
+CTSpace,1.8,Advertising,Palo Alto,0,1,Palo Alto,Advertising,10.0,|Software|
+D2C Games,3.675,Law Enforcement,Santa Cruz,1,0,Other_city,Other_market,7.0,|Games|
+AirXpanders,100.0,Services,San Francisco,4,0,San Francisco,Other_market,9.846153846153847,|Biotechnology|
+Actelis Networks,13.4,Enterprise Software,Redwood City,6,0,Redwood City,Enterprise Software,9.892857142857142,|Internet|Software|Web Hosting|
+Three Rings,2.4,Travel,San Francisco,1,0,San Francisco,Other_market,8.5,|Games|
+Causes,5.0,Software,Mountain View,3,1,Mountain View,Software,10.0,|Facebook Applications|Politics|Nonprofits|
+InvenSense,7.0,Curated Web,San Francisco,3,0,San Francisco,Curated Web,10.0,|Semiconductors|
+The Climate Corporation,3.235793,Beauty,San Mateo,3,1,San Mateo,Other_market,9.6,|Big Data|Agriculture|Promotional|Risk Management|Finance|Insurance|News|Clean Technology|
+Anchor Intelligence,0.14,Social Media,Mountain View,2,0,Mountain View,Social Media,8.88888888888889,|Advertising|
+One Medical Group,2.38,Health and Wellness,San Francisco,5,0,San Francisco,Health and Wellness,10.0,|Medical|Doctors|Health Care|
+Britely,5.3,Games,Santa Clara,0,0,Santa Clara,Games,9.4,|Curated Web|
+Wize,4.0,Semiconductors,Fremont,2,1,Other_city,Semiconductors,10.0,|Search|Shopping|Reviews and Recommendations|E-Commerce|
+ShareThis,22.0,Web Hosting,San Rafael,3,0,Other_city,Web Hosting,9.666666666666666,|Advertising|File Sharing|Social Media|
+MarketTools,17.0,Mobile,Palo Alto,5,1,Palo Alto,Mobile,9.666666666666666,|Software|
+Glyde,11.2,Software,San Francisco,1,0,San Francisco,Software,10.0,|iPod Touch|iPhone|iPad|Entertainment|Peer-to-Peer|Consumer Electronics|Online Shopping|Video Games|Hardware|Marketplaces|Media|Retail|E-Commerce|
+Bill.com,7.0,Clean Technology,Santa Clara,5,0,Santa Clara,Clean Technology,9.851851851851851,|SaaS|Finance|
+Aardvark,4.1,Sales Automation,Menlo Park,1,1,Menlo Park,Other_market,9.444444444444445,|Search|
+RockYou,8.3,Mobile,San Francisco,4,0,San Francisco,Mobile,9.529411764705882,|Mobile|Online Gaming|Online Video Advertising|Facebook Applications|Messaging|Photography|Web Tools|Games|
+Chegg,2.0,Games,Sunnyvale,6,0,Sunnyvale,Games,9.76,|Consumers|Online Rental|Textbooks|Education|
+Biz360,3.75,Security,San Francisco,0,1,San Francisco,Security,10.0,|Analytics|
+Wellsphere,0.118,Finance,San Francisco,1,1,San Francisco,Finance,8.0,|Health and Wellness|
+Roost,9.0,Mobile,San Francisco,2,1,San Francisco,Mobile,4.0,|Home Automation|
+AdYouNet,5.11,Health and Wellness,San Francisco,0,0,San Francisco,Health and Wellness,7.666666666666667,|Advertising|
+Piczo,1.9,Curated Web,San Francisco,3,1,San Francisco,Curated Web,10.0,|Teenagers|Social Network Media|Social Media|
+Fixya,8.0,Games,Redwood City,2,0,Redwood City,Games,10.0,|Customer Service|Professional Services|DIY|Crowdsourcing|Curated Web|
+SpeedDate,5.0,Advertising,San Rafael,2,0,Other_city,Advertising,9.666666666666666,|Online Dating|Curated Web|
+InMobi,5.791106,Hardware + Software,San Jose,3,0,San Jose,Hardware + Software,9.571428571428571,|Advertising|Mobile|
+Teracent,1.2,E-Commerce,San Francisco,2,1,San Francisco,E-Commerce,10.0,|Advertising|
+Reachable,3.0,Music,San Francisco,1,0,San Francisco,Music,9.6,|Social CRM|CRM|Social Business|Software|
+Arithmatica,1.528,Mobile,San Mateo,0,0,San Mateo,Mobile,9.0,|Software|
+Citizen Sports,13.32,Clean Technology,San Francisco,0,1,San Francisco,Clean Technology,10.0,|Sports|
+Nimbus Data,0.225,Social Media,Menlo Park,0,0,Menlo Park,Social Media,6.25,|Software|Storage|Enterprise Software|
+Weebly,23.5,Hardware,Menlo Park,3,0,Menlo Park,Other_market,10.0,|Blogging Platforms|E-Commerce Platforms|Web Development|Curated Web|
+Hotswap,3.0,Curated Web,Mountain View,1,0,Mountain View,Curated Web,9.0,|Cars|E-Commerce|
+Infectious,3.7,Transportation,San Francisco,0,0,San Francisco,Other_market,8.5,|Design|
+Buxfer,0.8025,Event Management,Mountain View,0,0,Mountain View,Other_market,7.0,|Finance|
+Auctomatic,28.0,Games,Menlo Park,0,1,Menlo Park,Games,10.0,|Auctions|E-Commerce|Curated Web|
+DotBlu,20.42563,Mobile,Santa Clara,1,0,Santa Clara,Mobile,9.8,|Gambling|Curated Web|
+CloudMade,6.5,Market Research,San Mateo,2,0,San Mateo,Other_market,8.0,|Navigation|Machine Learning|Automotive|Maps|iPhone|Mobile|Location Based Services|
+One Season,3.4,Curated Web,San Francisco,1,0,San Francisco,Curated Web,6.0,|All Markets|Sports|
+Kolorific,9.0,Games,San Francisco,3,0,San Francisco,Games,9.0,|Semiconductors|
+Ketera,86.736464,Oil & Gas,Fremont,0,1,Other_city,Other_market,9.714285714285714,|Enterprise Software|
+Altos Design Automation,14.195,Data Integration,Palo Alto,1,0,Palo Alto,Other_market,10.0,|Hardware + Software|
+Boxbe,15.5,Health Care Information Technology,San Francisco,1,0,San Francisco,Other_market,10.0,|Social Media|Email|Messaging|
+Fluidigm,3.3,Cyber,Sunnyvale,5,0,Sunnyvale,Other_market,9.666666666666666,|Biotechnology|
+diaDexus,0.1,Curated Web,Millbrae,6,0,Other_city,Curated Web,9.909090909090908,|Biotechnology|
+Scalent Systems,8.4,E-Commerce,San Francisco,3,1,San Francisco,E-Commerce,10.0,|Cloud Computing|Virtualization|Software|
+Animated Speech,2.0,Television,San Francisco,3,0,San Francisco,Other_market,6.666666666666667,|Software|
+Achronix Semiconductor,0.95,Education,San Mateo,2,0,San Mateo,Education,10.0,|Semiconductors|
+Aurora Biofuels,19.3,Business Information Systems,San Mateo,3,0,San Mateo,Other_market,10.0,|Clean Technology|
+Heysan,17.5,Enterprise Software,San Francisco,0,1,San Francisco,Enterprise Software,10.0,|SMS|Messaging|
+Netmining,0.04,Professional Services,San Francisco,0,0,San Francisco,Other_market,6.0,|Advertising|
+Athena Design Systems,2.77998,Music,San Francisco,2,0,San Francisco,Music,9.666666666666666,|Software|
+Anchor Bay Technologies,21.75,Analytics,Redwood City,0,1,Redwood City,Analytics,9.333333333333334,|Video|Semiconductors|
+Ovalis,0.528,Health and Wellness,Foster City,2,0,Other_city,Health and Wellness,9.666666666666666,|Biotechnology|
+Osprey Pharmaceuticals USA,0.028,Cloud Computing,Sunnyvale,0,0,Sunnyvale,Cloud Computing,9.0,|Medical|Biotechnology|
+Brilliant Telecommunications,6.479503,Games,San Jose,2,0,San Jose,Games,9.571428571428571,|Web Hosting|
+Gigya,24.3,Analytics,Menlo Park,6,0,Menlo Park,Analytics,9.925925925925926,|Gamification|Identity Management|Enterprise Software|
+Adap.tv,7.5,Legal,San Jose,3,1,San Jose,Other_market,10.0,|Auctions|Television|Video|Advertising|
+TagArray,1.5,Real Estate,San Francisco,1,0,San Francisco,Other_market,8.5,|Tracking|Wireless|RFID|Mobile|
+Wesabe,0.04,Marketplaces,San Francisco,1,0,San Francisco,Other_market,10.0,|Finance|
+spigit,0.04,Software,San Francisco,5,0,San Francisco,Software,9.142857142857142,|Software|
+Meraki,1.0,Health and Wellness,San Francisco,3,1,San Francisco,Health and Wellness,10.0,|Web Hosting|
+PopularMedia,4.0,Biotechnology,Menlo Park,3,1,Menlo Park,Biotechnology,10.0,|Advertising|
+Issuu,0.04,Risk Management,Sunnyvale,2,0,Sunnyvale,Other_market,10.0,|Apps|SaaS|News|Publishing|Curated Web|
+GigaLogix,0.08,Publishing,San Francisco,1,0,San Francisco,Other_market,10.0,|Public Relations|
+Terabitz,8.85,Software,Mountain View,1,0,Mountain View,Software,10.0,|Real Estate|
+Center'd,1.0984,Brand Marketing,San Francisco,1,0,San Francisco,Other_market,8.571428571428571,|Maps|Local|Events|Web Tools|Natural Language Processing|Neuroscience|Local Search|Curated Web|
+Zenverge,0.04,Education,San Francisco,5,0,San Francisco,Education,9.916666666666666,|Semiconductors|
+iRhythm Technologies,5.0,Textbooks,San Francisco,5,0,San Francisco,Other_market,9.818181818181818,|Biotechnology|
+EoPlex Technologies,5.0,Health and Wellness,San Francisco,3,0,San Francisco,Health and Wellness,10.0,|Hardware + Software|
+Lango,45.0,Health and Wellness,Cupertino,0,0,Other_city,Health and Wellness,10.0,|Startups|Messaging|Mobile Software Tools|Public Relations|
+Trellis Bioscience,0.7,Software,Mountain View,2,0,Mountain View,Software,9.75,|Biotechnology|
+CoAdna Photonics,25.0,Cloud Data Services,Foster City,2,0,Other_city,Other_market,8.5,|Video|Hardware + Software|
+Veeker,4.2,Video Streaming,San Francisco,1,0,San Francisco,Other_market,10.0,|Messaging|
+PivotLink,3.652746,Android,San Francisco,3,0,San Francisco,Other_market,10.0,|Retail|SaaS|Web Development|Analytics|Sales and Marketing|Software|
+Marketocracy,0.025,Hardware + Software,San Francisco,0,0,San Francisco,Hardware + Software,10.0,|Finance|
+Sanarus Medical,1.45,E-Commerce,Redwood City,5,0,Redwood City,E-Commerce,9.833333333333334,|Health Care|
+TrialPay,1.8,Health Care,San Francisco,3,0,San Francisco,Health Care,9.904761904761905,|Payments|Advertising|
+MyBuys,5.496,Biotechnology,Sunnyvale,3,0,Sunnyvale,Biotechnology,9.875,|Media|Displays|Email|Reviews and Recommendations|Social Media|Mobile|Personalization|Advertising|
+Mozes,4.4,Mobile,Santa Clara,2,0,Santa Clara,Mobile,10.0,|Audio|SMS|Brand Marketing|Music|Wireless|App Marketing|Mobile|
+Aquest Systems,33.272,Web Hosting,Sunnyvale,2,0,Sunnyvale,Web Hosting,10.0,|Semiconductors|
+Videonline Communications,0.6,Startups,San Francisco,0,0,San Francisco,Other_market,10.0,|Curated Web|
+Wirama,0.12,Education,San Francisco,1,0,San Francisco,Education,4.0,|Hardware + Software|
+Redux,3.35,Advertising,Oakland,2,1,Other_city,Advertising,10.0,|Ediscovery|Games|
+FlickIM,15.0,Public Transportation,San Francisco,1,0,San Francisco,Other_market,10.0,|Messaging|Chat|Mobile|
+Adaptive Planning,3.1,Auctions,Palo Alto,4,0,Palo Alto,Other_market,10.0,|Software|
+QuikCycle,6.745,Analytics,Santa Clara,0,0,Santa Clara,Analytics,10.0,|Software|
+Informative,1.86,Cloud Computing,San Francisco,0,1,San Francisco,Cloud Computing,8.0,|Advertising|
+LS9,3.198,Enterprise Software,San Francisco,4,1,San Francisco,Enterprise Software,10.0,|Biotechnology|
+Quantcast,0.778,Productivity Software,San Francisco,3,0,San Francisco,Other_market,10.0,|Advertising|
+Tapatap,0.644,Enterprises,San Francisco,1,1,San Francisco,Other_market,10.0,|Mobile|
+Cuil,0.111,Internet of Things,San Francisco,2,0,San Francisco,Other_market,10.0,|Search|
+PSS Systems,3.217147,K-12 Education,Palo Alto,4,1,Palo Alto,Other_market,9.833333333333334,|Legal|
+HotPads,17.0875,Identity Management,San Francisco,1,1,San Francisco,Other_market,9.0,|Hotels|Vacation Rentals|Online Rental|Real Estate|Search|
+A la Mobile,6.62,Advertising,San Francisco,2,0,San Francisco,Advertising,10.0,|Mobile|
+Triggit,0.086625,SaaS,San Francisco,2,0,San Francisco,SaaS,9.0,|Auctions|Internet|Advertising|
+VISUALPLANT,1.0,Enterprise Software,San Francisco,0,0,San Francisco,Enterprise Software,3.0,|Digital Media|Video|Enterprise Software|
+Kongregate,10.0,Search,San Francisco,2,1,San Francisco,Search,9.0,|Games|
+YuMe,51.6,Enterprise Software,San Jose,4,0,San Jose,Enterprise Software,10.0,|Advertising|
+SoloPower,1.0,Weddings,Palo Alto,3,0,Palo Alto,Other_market,9.80952380952381,|Clean Technology|
+Rohati Systems,9.0,Enterprise Software,San Francisco,2,1,San Francisco,Enterprise Software,10.0,|Software|
+VasoNova,1.043,Curated Web,San Francisco,1,1,San Francisco,Curated Web,8.0,|Health Care|
+Solazyme,46.75,Fashion,San Francisco,4,0,San Francisco,Other_market,9.857142857142858,|Chemicals|Clean Technology|
+Synfora,8.75,Software,San Francisco,3,0,San Francisco,Software,9.2,|Software|
+Moxie,1.055,Software,South San Francisco,3,0,Other_city,Software,9.8,|E-Commerce|Software|Enterprise Software|
+Flurry,1.0,Enterprise Software,San Mateo,5,1,San Mateo,Enterprise Software,10.0,|Mobile|Advertising|
+IForem,0.969,Clean Technology,San Jose,1,0,San Jose,Clean Technology,10.0,|Web Hosting|
+Transcept Pharmaceuticals,0.2,Sports,San Francisco,4,0,San Francisco,Other_market,10.0,|Pharmaceuticals|Biotechnology|
+Xradia,1.4001,Curated Web,San Francisco,4,1,San Francisco,Curated Web,10.0,|Biotechnology|
+Coupa Software,1.2,Software,San Francisco,6,0,San Francisco,Software,10.0,|Cloud Infrastructure|SaaS|Procurement|Enterprise Software|
+Aicent,11.5,Clean Technology,San Francisco,4,1,San Francisco,Clean Technology,10.0,|Mobile|
+Mobifusion,12.35,E-Commerce,Palo Alto,1,0,Palo Alto,E-Commerce,6.0,|Mobile|
+Interactive Fitness,0.185,Mobile,Berkeley,4,0,Other_city,Mobile,10.0,|Hardware + Software|
+Epiphany,0.629,Curated Web,San Francisco,1,0,San Francisco,Curated Web,10.0,|Biotechnology|
+Intarcia Therapeutics,0.837,Environmental Innovation,Corte Madera,2,0,Other_city,Other_market,10.0,|Biotechnology|
+Neuropure,17.363449,Mobile Games,San Francisco,1,0,San Francisco,Other_market,10.0,|Biotechnology|
+Artimi,1.0,Outsourcing,Sunnyvale,2,0,Sunnyvale,Other_market,10.0,|Semiconductors|
+Legend Silicon,47.0,Mobile Advertising,San Francisco,0,0,San Francisco,Other_market,8.0,|Semiconductors|
+scanR,9.8,Health and Wellness,San Francisco,2,0,San Francisco,Health and Wellness,9.666666666666666,|Mobile|
+Pulse Entertainment,7.0,Systems,Sunnyvale,2,1,Sunnyvale,Other_market,9.75,|3D|Entertainment|Messaging|
+FastScaleTechnology,0.2125,Mass Customization,Campbell,2,1,Other_city,Other_market,10.0,|Finance|
+MAP Pharmaceuticals,25.899999,Health Care,Redwood City,4,1,Redwood City,Health Care,10.0,|Medical|Pharmaceuticals|Biotechnology|
+Moblyng,4.28,Biotechnology,San Francisco,3,0,San Francisco,Biotechnology,9.6,|Games|
+Coapt Systems,4.0,Biotechnology,Menlo Park,5,1,Menlo Park,Biotechnology,10.0,|Biotechnology|
+Digital Fuel,10.0,Mobile,Mountain View,5,1,Mountain View,Mobile,10.0,|Software|
+Optovue,10.44,Hardware + Software,San Mateo,2,0,San Mateo,Hardware + Software,10.0,|Health Care|
+GT Nexus,1.553016,Enterprise Software,San Francisco,0,0,San Francisco,Enterprise Software,9.5,|Software|
+WooMe,0.006,Marketplaces,San Jose,2,1,San Jose,Other_market,9.857142857142858,|Women|Curated Web|
+Avega Systems,15.787,Biotechnology,San Francisco,2,0,San Francisco,Biotechnology,10.0,|Hardware + Software|
+Perfect Escapes,15.0,Mobile,San Jose,1,0,San Jose,Mobile,8.333333333333334,|Travel|
+bluepulse,0.118,Taxis,San Francisco,1,0,San Francisco,Other_market,10.0,|Mobile|
+NuConomy,1.3,Developer APIs,Palo Alto,1,1,Palo Alto,Other_market,5.25,|Analytics|Advertising|
+Sana Security,66.5,Data Security,Cupertino,5,1,Other_city,Other_market,10.0,|Security|
+Advanced Chip Express,1.113,Colleges,San Francisco,1,0,San Francisco,Other_market,10.0,|Security|
+Intransa,15.5,Collaboration,San Francisco,0,0,San Francisco,Other_market,9.8,|Internet|Storage|Security|
+Extreme DA,6.64,Enterprise Software,Oakland,2,1,Other_city,Enterprise Software,8.75,|Software|
+Alter-G,6.0,Technology,San Francisco,3,0,San Francisco,Technology,8.333333333333334,|Health Care|
+FonJax,3.1,Shipping,San Francisco,1,0,San Francisco,Other_market,6.0,|Consulting|
+Conviva,0.1,Software,San Francisco,4,0,San Francisco,Software,10.0,|Analytics|Video|Video Streaming|Optimization|Software|
+Outspark,5.0,Hospitality,San Francisco,3,1,San Francisco,Other_market,9.857142857142858,|Games|
+Shocking Technologies,5.0,Advertising,San Francisco,3,0,San Francisco,Advertising,9.533333333333333,|Hardware + Software|
+Lithium Technologies,1.2,Mobile Advertising,San Mateo,5,0,San Mateo,Other_market,10.0,|Social CRM|Software|
+Bacchus Vascular,3.5,Biotechnology,Menlo Park,0,1,Menlo Park,Biotechnology,10.0,|Health and Wellness|Electronics|Medical|Health Care|
+Emotive Communications,8.0,Photo Sharing,San Francisco,2,0,San Francisco,Other_market,9.8,|Enterprise Software|
+PanTerra Networks,8.7,Mobile,San Francisco,1,0,San Francisco,Mobile,10.0,|Unifed Communications|SaaS|Cloud Data Services|Cloud Computing|Storage|Flash Storage|File Sharing|Software|
+CymaBay Therapeutics,1.5,Enterprise Software,San Jose,4,0,San Jose,Enterprise Software,9.866666666666667,|Biotechnology|
+Reliant Technologies,67.0,Biotechnology,Mountain View,5,1,Mountain View,Biotechnology,10.0,|Biotechnology|
+VoloMedia,0.995,Software,San Francisco,3,0,San Francisco,Software,10.0,|Advertising|
+eMeter,3.2,Recruiting,San Francisco,7,1,San Francisco,Other_market,10.0,|Clean Technology|
+TripIt,1.1,Crowdfunding,San Francisco,3,1,San Francisco,Other_market,9.4,|Social Media|Travel|
+Agily Networks,2.0,Security,Palo Alto,0,0,Palo Alto,Security,2.0,|Flash Storage|Synchronization|Networking|Peer-to-Peer|Trusted Networks|Storage|Cloud Computing|Web Hosting|
+CastTV,15.0,Mobile Commerce,San Francisco,1,1,San Francisco,Other_market,10.0,|Games|
+Ponte Solutions,17.1,Music,San Francisco,2,1,San Francisco,Music,10.0,|Software|
+VoxPop Network Corporation,18.0,Personal Health,San Francisco,2,1,San Francisco,Other_market,10.0,|Games|
+Lending Club,0.641,Mobile,San Francisco,4,0,San Francisco,Mobile,10.0,|Credit|Finance Technology|Personal Finance|Finance|
+Virident Systems,6.75,Mobile,San Francisco,4,1,San Francisco,Mobile,9.857142857142858,|Technology|Clean Technology|Hardware|Enterprise Software|
+Rooftop Media,9.2,Real Time,San Francisco,1,1,San Francisco,Other_market,10.0,|Media|Content Syndication|Distribution|Product Development Services|Licensing|Music|Entertainment|Content|Video|Audio|News|
+SnapLayout,3.0,Advertising,San Francisco,1,0,San Francisco,Advertising,10.0,|Social Network Media|Identity|Social Media|
+Gizmoz,0.09,Social Search,San Francisco,3,1,San Francisco,Other_market,9.75,|3D|Web Tools|Entertainment|Curated Web|
+Angstro,25.0,Biotechnology,Hayward,0,1,Other_city,Biotechnology,7.0,|Software|
+DanceJam,0.04,E-Commerce,San Francisco,2,0,San Francisco,E-Commerce,9.0,|Music|Video|Social Media|
+ImageShack,0.05,Kids,Stanford,1,0,Other_city,Other_market,10.0,|Web Hosting|
+23andMe,5.5,Marketplaces,San Francisco,4,0,San Francisco,Other_market,9.941176470588236,|Search|Biotechnology|
+The Multiverse Network,0.025,Photography,San Francisco,1,0,San Francisco,Photography,8.0,|Game|Games|
+Myfacepage,1.65,Security,San Francisco,0,0,San Francisco,Security,4.0,|Social Media|
+Handipoints,3.4,Curated Web,Portola Valley,0,0,Other_city,Curated Web,8.125,|Curated Web|
+Halt Medical,0.02,Security,Palo Alto,5,0,Palo Alto,Security,9.333333333333334,|Health Care|
+Hyperpia,3.0,E-Commerce,San Francisco,3,0,San Francisco,E-Commerce,10.0,|Games|
+Pulmonx,1.3,Enterprise Software,San Francisco,3,0,San Francisco,Enterprise Software,10.0,|Biotechnology|
+Silk Road Medical,5.0,Mobile Games,Berkeley,2,0,Other_city,Other_market,10.0,|Health Care|
+Sentrigo,13.5,Hospitality,Berkeley,3,1,Other_city,Other_market,10.0,|Accounting|Networking|Hardware + Software|Databases|Security|Software|
+Mashery,10.0,Mobile,Los Gatos,4,1,Other_city,Mobile,9.958333333333334,|Analytics|Services|Enterprises|SaaS|Developer APIs|Enterprise Software|
+Fortressware,47.0,Analytics,San Francisco,1,0,San Francisco,Analytics,10.0,|Security|
+XTRM,2.09,Biotechnology,Palo Alto,2,0,Palo Alto,Biotechnology,10.0,|Finance|
+Cool Earth Solar,2.7,Photography,San Francisco,0,0,San Francisco,Photography,3.0,|Solar|Clean Technology|
+Magnum Semiconductor,4.15,Customer Service,Santa Clara,3,0,Santa Clara,Other_market,10.0,|Semiconductors|
+MBA Polymers,19.7,Small and Medium Businesses,Palo Alto,6,0,Palo Alto,Other_market,9.0,|Clean Technology|
+Interface21,1.24125,Email,San Francisco,1,0,San Francisco,Other_market,10.0,|Software|
+StrataGent Life Sciences,3.735202,Software,Belmont,2,0,Other_city,Software,10.0,|Biotechnology|
+EcoTimber,1.5,Messaging,San Francisco,1,0,San Francisco,Messaging,,
+Therative,1.2,Financial Services,San Francisco,3,0,San Francisco,Other_market,10.0,|Health Care|
+nCircle Network Security,23.0,Analytics,Cupertino,0,1,Other_city,Analytics,10.0,|Security|
+BioSeek,4.5,Mobile,Menlo Park,3,1,Menlo Park,Mobile,8.0,|Biotechnology|
+SuVolta,8.7,Advertising,San Francisco,6,0,San Francisco,Advertising,10.0,|Semiconductors|
+TRIA Beauty,2.3,Software,Mountain View,4,0,Mountain View,Software,9.8,|E-Commerce|
+AOptix Technologies,4.0,News,Mountain View,5,0,Mountain View,News,10.0,|Biometrics|Security|Biotechnology|
+Sprout,1.525,Mobile,Palo Alto,2,1,Palo Alto,Mobile,9.5,|Media|Web Development|Advertising|
+ConteXtream,17.2,Mobile,Cupertino,2,0,Other_city,Mobile,10.0,|Data Centers|Virtualization|Networking|Software|
+Stion,2.0,Software,San Francisco,2,0,San Francisco,Software,9.928571428571429,|Clean Technology|
+InsideView,2.0,Drones,Menlo Park,4,0,Menlo Park,Other_market,9.866666666666667,|SaaS|Enterprise Software|
+Grouply,5.2,Social Games,Mountain View,1,1,Mountain View,Other_market,9.363636363636363,|Social Network Media|Software|
+Tapjoy,4.099999,Biotechnology,Los Altos Hills,4,0,Other_city,Biotechnology,10.0,|Brand Marketing|Games|Windows Phone 7|Apps|Android|iOS|Mobile|Advertising|
+Skyfire Labs,2.6085,Technology,San Francisco,4,1,San Francisco,Technology,10.0,|Enterprise Software|
+"Xora, Inc.",29.50015,Biotechnology,Palo Alto,0,0,Palo Alto,Biotechnology,10.0,|Mobile|Gps|Enterprise Software|
+Danal d/b/a BilltoMobile,1.6,Software,Santa Clara,1,0,Santa Clara,Software,10.0,|Payments|Mobile Payments|Mobile|
+iGroup Network,10.1,Education,Palo Alto,0,0,Palo Alto,Education,9.75,|Messaging|
+Bountii,4.0,Developer APIs,Palo Alto,0,0,Palo Alto,Other_market,10.0,|Shopping|Venture Capital|Search|
+Zecter,4.5,Software,Mountain View,1,1,Mountain View,Software,8.4,|Storage|Document Management|File Sharing|Web Hosting|
+Conecta 2,45.5,Biotechnology,Redwood City,0,0,Redwood City,Biotechnology,10.0,|Venture Capital|Graphics|Consulting|
+Hello Chair,10.0,Health Care,San Francisco,0,0,San Francisco,Health Care,9.666666666666666,|Mobile|
+Clickpass,7.5,Nanotechnology,Benicia,0,1,Other_city,Other_market,10.0,|Identity|Security|
+Dropbox,5.0,Cloud Security,San Mateo,3,0,San Mateo,Other_market,9.956521739130435,|Cloud Data Services|Storage|Web Hosting|
+Raptr,2.4,Language Learning,San Francisco,2,0,San Francisco,Other_market,9.714285714285714,|Games|
+Ooyala,7.823112,Software,San Francisco,6,1,San Francisco,Software,10.0,|Video|Analytics|
+Tioga Energy,1.56,Social Commerce,San Francisco,2,0,San Francisco,Other_market,9.714285714285714,|Clean Technology|
+iKoa,0.1,E-Commerce,San Francisco,1,0,San Francisco,E-Commerce,9.833333333333334,|Semiconductors|
+ZeroG Wireless,9.45,Education,San Francisco,2,1,San Francisco,Education,9.857142857142858,|Hardware + Software|
+Dreamerz Foods,24.0,Health Care,San Francisco,2,0,San Francisco,Health Care,8.5,|Biotechnology|
+SnapTell,4.0,Social + Mobile + Local,San Francisco,1,1,San Francisco,Other_market,9.5,|Advertising|
+CleanFish,3.952,Skill Assessment,San Francisco,1,0,San Francisco,Other_market,,
+SpringSource,3.0,Education,San Francisco,2,1,San Francisco,Education,10.0,|Software|
+Lumos Labs,50.0,News,San Francisco,4,0,San Francisco,News,9.857142857142858,|Games|Curated Web|
+Eye-Fi,5.0,E-Commerce,San Francisco,4,0,San Francisco,E-Commerce,9.8,|Cloud Computing|Wireless|Digital Media|Hardware + Software|
+Roxro Pharma,0.1,Video,San Francisco,2,0,San Francisco,Video,10.0,|Biotechnology|
+Luminescent Technologies,1.8,Software,San Francisco,0,0,San Francisco,Software,10.0,|Semiconductors|
+Mendel Biotechnology,0.8,Mobile,Berkeley,0,0,Other_city,Mobile,8.666666666666666,|Agriculture|Biotechnology|
+M-Factor,0.5,Enterprise Software,San Francisco,4,1,San Francisco,Enterprise Software,10.0,|SaaS|Software|
+F-Origin,0.7,Health and Wellness,San Francisco,2,0,San Francisco,Health and Wellness,8.666666666666666,|Software|
+NetManage,0.025,Internet of Things,San Jose,0,1,San Jose,Other_market,9.0,|Software|
+Xoomsys,13.7,Bitcoin,San Francisco,2,0,San Francisco,Other_market,10.0,|Consulting|
+BroadLogic Network Technologies,0.075,Social Network Media,San Francisco,2,0,San Francisco,Social Network Media,10.0,|Web Hosting|
+Tradescape,1.022,Health and Wellness,San Francisco,0,0,San Francisco,Health and Wellness,10.0,|Software|
+Oraya Therapeutics,3.450673,Video,San Francisco,3,0,San Francisco,Video,10.0,|Biotechnology|
+OnlineSheetMusic,6.0,Biotechnology,San Mateo,3,0,San Mateo,Biotechnology,9.0,|Music|
+Apptera,16.0,Software,San Francisco,4,1,San Francisco,Software,10.0,|Advertising|
+LiveVox,10.0,Big Data Analytics,San Mateo,6,0,San Mateo,Other_market,7.8,|Web Hosting|
+Arteris,2.1,Big Data,Menlo Park,4,0,Menlo Park,Big Data,9.8,|Hardware + Software|
+RichRelevance,2.275,E-Commerce,San Francisco,6,0,San Francisco,E-Commerce,9.88,|Big Data|Analytics|Advertising|E-Commerce|
+Recurrent Energy,1.2,Music,San Francisco,2,1,San Francisco,Music,10.0,|Clean Technology|
+AdventEnna,8.5,Photography,San Francisco,1,0,San Francisco,Photography,9.666666666666666,|Mobile|
+Adomo,5.0,Web Hosting,San Francisco,0,1,San Francisco,Web Hosting,10.0,|Messaging|
+Neopolitan Networks,1.81,Health Care,San Jose,1,0,San Jose,Health Care,8.0,|Curated Web|
+Paracor Medical,0.1,E-Commerce,Berkeley,4,0,Other_city,E-Commerce,10.0,|Health Care|
+Leyden Energy,8.0,Logistics,Milpitas,3,0,Other_city,Other_market,10.0,|Manufacturing|
+Kyte,3.0,Accounting,San Francisco,2,1,San Francisco,Other_market,9.833333333333334,|Media|iPhone|Mobile|Video|Games|
+Rupture,0.01,Marketplaces,Palo Alto,0,1,Palo Alto,Other_market,9.666666666666666,|Social Network Media|Games|
+Cnano Technology,12.750003,Advertising,Berkeley,1,0,Other_city,Advertising,10.0,|Nanotechnology|
+Twitter,40.0,Health and Wellness,Redwood City,7,0,Redwood City,Health and Wellness,9.82857142857143,|Software|SMS|MicroBlogging|Messaging|Social Media|
+Jaxtr,2.8,3D,San Francisco,2,1,San Francisco,Other_market,10.0,|VoIP|Mobile|
+Jawbone,0.028,SaaS,San Francisco,2,0,San Francisco,SaaS,10.0,|Consumer Electronics|Personal Health|Mobile Software Tools|Hardware + Software|
+Cooliris,0.069,Artificial Intelligence,San Francisco,3,1,San Francisco,Other_market,10.0,|Photo Sharing|Mobile Social|Mobile|Messaging|
+Ning by Glam Media,5.7,Software,Santa Clara,5,1,Santa Clara,Software,10.0,|Communities|Enterprise Software|
+NebuAd,1.5,Services,Redwood City,2,0,Redwood City,Other_market,10.0,|Advertising|
+hi5,4.2,Software,San Francisco,1,1,San Francisco,Software,10.0,|Networking|Games|
+3Jam,13.2,Software,Sunnyvale,1,0,Sunnyvale,Software,10.0,|SMS|Messaging|
+"Remixation, Inc.",1.966279,Personalization,San Francisco,1,0,San Francisco,Other_market,10.0,|File Sharing|Web Tools|Video|Games|
+Apture,2.515,Software,Santa Clara,1,1,Santa Clara,Software,5.25,|Advertising|Publishing|Blogging Platforms|Curated Web|
+Trion Worlds,1.45,Internet,Mountain View,4,0,Mountain View,Other_market,10.0,|Games|
+U4EA,2.29867,Mobile,San Francisco,3,0,San Francisco,Mobile,8.0,|Wireless|Telecommunications|Hardware + Software|
+VMware,5.5,Finance,Palo Alto,0,1,Palo Alto,Finance,10.0,|Software|
+InMage Systems,0.025,Virtual Currency,Sunnyvale,3,1,Sunnyvale,Other_market,9.5,|Enterprise Software|Software|
+Serus,0.5,Mobile,Santa Clara,3,1,Santa Clara,Mobile,9.6,|Enterprise Software|
+NoiseFree,11.6,Hardware + Software,Hayward,0,0,Other_city,Hardware + Software,4.0,|Software|
+BlogHer,1.0,Software,Cupertino,3,1,Other_city,Software,9.833333333333334,|Blogging Platforms|Women|Curated Web|
+Edvert,0.2,SaaS,Palo Alto,1,0,Palo Alto,SaaS,10.0,|Advertising|
+MarkLogic,17.5,Software,San Francisco,5,0,San Francisco,Software,9.75,|Enterprise Search|Content|Web Development|Enterprise Software|
+Connectbeam,4.0,Fashion,San Francisco,1,0,San Francisco,Other_market,10.0,|Software|
+Star Analytics,2.3,Public Transportation,San Francisco,1,1,San Francisco,Other_market,10.0,|Software|
+Satiety,2.0,Text Analytics,San Francisco,4,0,San Francisco,Other_market,10.0,|Health Care|
+CoWare,4.6,Software,San Francisco,6,0,San Francisco,Software,9.666666666666666,|Software|
+Nuon Therapeutics,70.653885,Biotechnology,Menlo Park,2,0,Menlo Park,Biotechnology,10.0,|Biotechnology|
+Active Optical MEMS,0.875,Cloud Computing,San Francisco,2,0,San Francisco,Cloud Computing,,
+Plato Networks,0.785,Digital Media,Oakland,3,0,Other_city,Other_market,10.0,|Semiconductors|
+NextHop Technologies,0.025,Internet of Things,Oakland,4,1,Other_city,Other_market,10.0,|Software|
+SignalDemand,12.0,Software,San Francisco,3,1,San Francisco,Software,10.0,|Software|
+BillShrink,5.0,Software,Mountain View,2,0,Mountain View,Software,10.0,|Curated Web|
+DecisionView,3.35,3D,San Francisco,3,0,San Francisco,Other_market,9.333333333333334,|Software|
+CareParent,0.04,Real Estate,Mountain View,1,0,Mountain View,Other_market,10.0,|Health and Wellness|
+Adzilla,39.3,Health Care,Sunnyvale,1,0,Sunnyvale,Health Care,10.0,|Advertising|
+Dyyno,15.0,Tablets,San Mateo,1,0,San Mateo,Other_market,9.0,|Facebook Applications|Mac|Computers|Android|iPad|Advertising|Games|
+PacketTrap Networks,10.0,Networking,San Jose,1,0,San Jose,Other_market,10.0,|Apps|IT Management|Networking|Software|
+Aravo Solutions,4.3,Biotechnology,South San Francisco,4,0,Other_city,Biotechnology,8.428571428571429,|Enterprise Software|
+FFWD,2.55,Software,Palo Alto,1,0,Palo Alto,Software,10.0,|Curated Web|
+Doppelganger,6.0,Energy Efficiency,Alameda,4,0,Other_city,Other_market,9.8,|Games|
+Livingly Media,7.3,Health and Wellness,San Francisco,2,0,San Francisco,Health and Wellness,9.625,|Entertainment|Fashion|Media|Digital Media|Advertising|
+sezmi,90.812497,Enterprise Software,Berkeley,3,1,Other_city,Enterprise Software,10.0,|Television|Games|
+Tiny Pictures,0.46,Online Video Advertising,Mountain View,2,1,Mountain View,Other_market,10.0,|Photography|Mobile|
+Media Machines,0.1,Home Renovation,San Francisco,1,0,San Francisco,Other_market,10.0,|Curated Web|
+TeeBeeDee,2.4,Customer Service,Santa Cruz,1,0,Other_city,Other_market,10.0,|Social Media|
+Jive Software,0.1,Local Businesses,San Francisco,3,1,San Francisco,Other_market,10.0,|Technology|Web Tools|Web Development|Social Media|Software|
+Filtrbox,0.025,Kids,San Francisco,1,1,San Francisco,Other_market,9.666666666666666,|Finance|Curated Web|
+Brightkite,0.02,Internet of Things,San Francisco,0,1,San Francisco,Other_market,10.0,|Chat|Local|Maps|Android|Mobile|iPhone|Gps|Location Based Services|Social Network Media|Finance|Social Media|
+Masala,2.0,K-12 Education,Los Gatos,1,0,Other_city,Other_market,10.0,|Curated Web|
+Mogad,0.12,Curated Web,San Francisco,1,1,San Francisco,Curated Web,7.5,|Facebook Applications|Networking|Messaging|Web Hosting|
+AppJet,8.5,Internet,Santa Clara,0,1,Santa Clara,Other_market,6.875,|Venture Capital|Software|Curated Web|
+Zivity,0.12,Social Travel,Mountain View,1,0,Mountain View,Other_market,8.4,|Art|Fashion|Content|Women|Social Media|Social Network Media|Photography|
+KineMed,0.12,Hardware + Software,Sunnyvale,0,0,Sunnyvale,Hardware + Software,9.0,|Health Care|
+HubPages,0.97,Agriculture,San Francisco,2,0,San Francisco,Other_market,10.0,|Crowdsourcing|Journalism|Curated Web|
+CoolSystems,2.0,Employment,San Francisco,0,0,San Francisco,Other_market,10.0,|Health Care|
+AutekBio,25.12675,Hardware + Software,San Francisco,2,0,San Francisco,Hardware + Software,9.333333333333334,|Medical|Biotechnology|
+Qlusters,0.9,All Students,San Francisco,3,0,San Francisco,Other_market,9.6,|Data Integration|Software|Data Centers|
+Silicon Genesis,3.0,Reviews and Recommendations,San Francisco,1,0,San Francisco,Other_market,9.333333333333334,|Hardware + Software|
+WiredBenefits,14.5,Software,San Jose,1,0,San Jose,Software,10.0,|Health and Wellness|
+DemandTec,2.5,Games,San Francisco,0,1,San Francisco,Games,10.0,|Software|
+Parade Technologies,2.7,Big Data,Santa Clara,2,0,Santa Clara,Big Data,10.0,|Semiconductors|
+Zafu,6.5,Cars,San Francisco,2,0,San Francisco,Other_market,8.5,|SaaS|Big Data|Analytics|Ad Targeting|Fashion|
+VistaGen Therapeutics,0.12,Education,San Francisco,0,0,San Francisco,Education,7.5,|Biotechnology|
+Restoration Robotics,1.3,Hardware + Software,San Francisco,3,0,San Francisco,Hardware + Software,10.0,|Biotechnology|Health Care|
+Tenaxis Medical,13.0,Big Data,Sunnyvale,2,0,Sunnyvale,Big Data,8.0,|Health Care|
+Sierra Surgical,1.5,Financial Services,Palo Alto,2,0,Palo Alto,Other_market,10.0,|Biotechnology|
+Elastra,4.039845,Health and Wellness,Palo Alto,2,0,Palo Alto,Health and Wellness,10.0,|Enterprise Software|
+VytronUS,0.465,Industrial Automation,San Francisco,2,0,San Francisco,Other_market,10.0,|Health Care|
+Novafora,2.0,Biotechnology,San Francisco,0,0,San Francisco,Biotechnology,10.0,|Software|
+Vibrynt,2.0,Big Data,San Mateo,1,0,San Mateo,Big Data,9.333333333333334,|Health Care|
+xMatters,1.0,Education,San Francisco,3,0,San Francisco,Education,10.0,|Business Services|Enterprise Software|
+TradeBeam,0.03,Enterprise Software,San Francisco,3,1,San Francisco,Enterprise Software,9.833333333333334,|Enterprise Software|
+Presidio Pharmaceuticals,2.2,Education,San Jose,2,0,San Jose,Education,10.0,|Biotechnology|
+SayNow,0.04,Tourism,Mountain View,1,1,Mountain View,Other_market,10.0,|Messaging|
+What They Like,14.514244,Biotechnology,Menlo Park,1,0,Menlo Park,Biotechnology,4.0,|Curated Web|
+Solexant,5.2,Digital Media,Redwood City,4,0,Redwood City,Other_market,9.956521739130435,|Clean Technology|
+Factor Technology Group,2.3,Peer-to-Peer,San Francisco,1,1,San Francisco,Other_market,10.0,|Software|
+Get Satisfaction,2.2,Communications Infrastructure,San Francisco,2,0,San Francisco,Other_market,8.941176470588236,|Social CRM|Customer Service|Forums|Reviews and Recommendations|Curated Web|
+Gemfire,21.0,Biotechnology,Emeryville,0,1,Other_city,Biotechnology,,
+Blekko,1.5,Startups,San Francisco,3,0,San Francisco,Other_market,9.08,|Search|
+Kabam,0.1,Charity,San Francisco,5,0,San Francisco,Other_market,9.785714285714286,|Social Games|Networking|Web Development|Social Media|Games|
+TargetCast Networks,2.9,Therapeutics,San Francisco,2,1,San Francisco,Other_market,10.0,|Advertising|
+SocialMedia.com,2.3,Surveys,San Francisco,2,1,San Francisco,Other_market,9.857142857142858,|Facebook Applications|Social Media|Advertising|
+Xoom Corporation,2.0,Health and Wellness,San Francisco,6,0,San Francisco,Health and Wellness,9.529411764705882,|Finance|P2P Money Transfer|E-Commerce|
+Caring.com,0.55,Mobile,San Francisco,2,1,San Francisco,Mobile,10.0,|Baby Boomers|Elder Care|Senior Health|Local Based Services|Media|
+PlaySpan,3.1,Big Data,San Francisco,3,1,San Francisco,Big Data,9.941176470588236,|Game|Games|
+Ausra,13.0,Consumer Electronics,Los Gatos,4,0,Other_city,Other_market,9.75,|Solar|Clean Technology|
+RingCentral,6.3,Mobile Enterprise,Los Altos,4,0,Other_city,Other_market,10.0,|Technology|Office Space|Mobile|VoIP|Messaging|
+StartForce,1.5,Data Visualization,San Francisco,1,1,San Francisco,Other_market,9.0,|Enterprise Software|
+Dipity,7.0,Data Centers,Mountain View,0,0,Mountain View,Other_market,6.666666666666667,|Facebook Applications|Social Media|Curated Web|
+DogTime Media,4.0,Software,San Francisco,0,0,San Francisco,Software,10.0,|Curated Web|
+RentMineOnline,26.5,Medical,San Francisco,0,1,San Francisco,Other_market,5.0,|Facebook Applications|Real Estate|Internet Marketing|Internet|Social Network Media|Startups|Sales and Marketing|Lead Generation|Finance|
+Project Playlist,3.5,Video,San Francisco,2,0,San Francisco,Video,9.25,|Networking|Music|
+We Are Hunted,1.32,Parenting,San Francisco,0,0,San Francisco,Other_market,6.0,|Twitter Applications|Peer-to-Peer|Forums|Internet|Graphics|Music|Software|
+Netbooks,2.3,Collaborative Consumption,Menlo Park,1,0,Menlo Park,Other_market,10.0,|Curated Web|
+Hyperion Therapeutics,30.0,Virtual Workforces,Mountain View,3,0,Mountain View,Other_market,10.0,|Health Care|Biotechnology|
